@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n estuvo fuera de funcionamiento entre el 20 y el 21 marzo de 2023, de igual manera entre el 12 y 28 de abril, por problemas de comunicaciones, muy posiblemente el FIT estaba lleno de agua y no permit\u00eda la adecuada transmisi\u00f3n de datos, se solucion\u00f3 el problema dandole tiempo a la estaci\u00f3n para que posiblemente entrara nuevamente, en el momento que reingres\u00f3 se le aument\u00f3 la potencia porque el enlace satelital estaba debil. Omitiendo el problema mencionado anteriormente, la estaci\u00f3n se ha caracterizado por mantener un \u00f3ptimo funcionamiento. A continuaci\u00f3n se disponen par\u00e1metros relevantes sobre esta estaci\u00f3n. ",
+        "disponibilidad": "Se perdieron dos \u00e9pocas de datos por problemas de comunicaciones como se mencion\u00f3 anteriormente. ",
+        "gapover": "Los  Gaps ilustrados se debieron a los problemas de comunicaciones que tuvo la estaci\u00f3n, muy posiblemente porque se le entr\u00f3 agua al FIT. Los overlaps se pueden deber a problemas en la transmisi\u00f3n de datos que duplica los paquetes enviados.",
+        "calidad": "En esta secci\u00f3n se presenta informaci\u00f3n asociada al Offset y An\u00e1lisis de la calidad de ruido en la estaci\u00f3n BET sensor HN.",
+        "offset": "La estaci\u00f3n en este sensor present\u00f3 niveles aceptables similares a los presentados en informes anteriores, teniendo promedios de -1643 cuentas en la componente vertical, -4389 cuentas en la componente este y -4481 cuentas en la componente norte.",
+        "ruido": "En an\u00e1lisis de ruido en los aceler\u00f3metros es distinto a los sism\u00f3metros.",
+        "ultima_v": [
+            "2022-03-24",
+            "Mantenimiento Correctivo",
+            "cambio de sensor corto periodo sercel l2204 y se instala sismom. guralp_t6y25, cambio de fuente de aceler\u00f3metro, se cort\u00f3 la maleza del interior del encerramiento de la estaci\u00f3n y del acceso a la estaci\u00f3n.\r\n",
+            "Robert Prada"
+        ],
+        "recomendaciones": "Actualmente la estaci\u00f3n mantiene buena se\u00f1al y correcto funcionamiento.  Sin embargo, lleva m\u00e1s de un a\u00f1o sin un mantenimiento preventivo. ",
+        "fecha_creacion": "2023-8-1",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

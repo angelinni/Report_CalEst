@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-10",
+            "Mantenimiento Correctivo",
+            "se cambian los sgtes equipos:  modem_161995409 por el 122583733, buc_a0050b por el a00118d06, sensor reftek_193034 por el 193032( se realizan pruebas). se impermeabiliza techa de caseta, se retira panel de abejas del interior del bunker, se desyerba y limpia la estacion.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

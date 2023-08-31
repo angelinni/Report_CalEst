@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-05-04",
+            "Mantenimiento Correctivo",
+            "se retira sercel l400001874, q330_4667 y episensor_6326 y se instalan digital dasu a6713/6869, sismo\r\nt6y26 y acelerografo t5e32-b607, se desyerba y limpia alrededor caseta y se lavan paneles y antena,\r\nse revisan conexiones, se limpia interior caseta y se instala letrero del sgc.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

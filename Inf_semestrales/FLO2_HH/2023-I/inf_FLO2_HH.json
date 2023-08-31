@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el tiempo que estuvo transmitiendo del 1 al 10 de enero y del 26 de abril al de 30 de junio tenia un buen funcionamiento con muy pocos cortes.",
+        "disponibilidad": "desde el 11 de enero la estaci\u00f3n perdi\u00f3 comunicaci\u00f3n con el digitalizador hasta el 26 de abril que se realiz\u00f3 mantenimiento.",
+        "gapover": "La estaci\u00f3n ha presentado pocos gaps y los que han ocurrido han durado menos de un minuto, lo que no afecta su buen funcionamiento.",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mantenido una buena calidad en la se\u00f1al.",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes han tenido un promedio entre -1700 y 3100, lo que indica un buen comportamiento.",
+        "ruido": "Para las tres componentes las curvas probabil\u00edsticas de densidad espectral se encuentran dentro del \u00e1rea establecida por las curvas NHLM y NLNM en todo el ancho de banda, lo que indica niveles de ruido aceptables.",
+        "ultima_v": [
+            "2023-04-24",
+            "Mantenimiento Correctivo",
+            "se verifican conexiones electricas, se limpian bornes de las baterias, se ubica plastico encima de las baterias, se hace canal para salida de agua de la caseta, se cambia radio cod_042201 y 034713 por los cod. 028166 y 046594.",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 3,
+        "n_img_recom": 0
+    }
+]

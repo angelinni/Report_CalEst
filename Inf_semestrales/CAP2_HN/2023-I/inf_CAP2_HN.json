@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "En el periodo 2023-I la disponibilidad de la estaci\u00f3n fue del 61.67 %. Estuvo por fuera desde agosto de 2022 hasta el 16 de febrero de 2023, debido a problemas en el sistema el\u00e9ctrico y el digitalizador Q330 el cual fue reemplazado el 06 de febrero de 2023, durante esta visita se cambio la transmisi\u00f3n satelital a celular lo cual ha ocasionado que se presenten problemas de transmisi\u00f3n de datos.",
+        "disponibilidad": "Durante el periodo 2023 - I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 61%",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 28 Gaps diarios y un promedio de 2.06, los cuales son aceptables, no se han presentado overlaps\n\n",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 41, aceptable asociado a actividades antr\u00f3picas en la regi\u00f3n",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n ha presentado un valor de offset promedio de 899.95 cuentas en la componente Z, en la componente N -4176.79 cuentas y -8700.85 cuentas, se observa una tendencia hacia el offset 0 en las componentes NZ y NE, el offset es la componente NE es elevado y es necesario ajustarlo en la pr\u00f3xima visita ",
+        "ruido": "de acuerdo a lo observado en los gr\u00e1ficos de ppsd para las componentes Z,N,E, se observa que el espectro de ruido de la estaci\u00f3n acelerografica excede las curvas de referencia en aproximadamente 38%, esto se debe principalmente a actividades antr\u00f3picas en cerca a la estaci\u00f3n.",
+        "ultima_v": [
+            "2023-2-23",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE CAMBIO EL SISTEMA DE ENERGIA COMERCIAL POR ENERGIA SOLAR, SE INSTALARON 4 PANELES SOLARES DE 240W Y REGULADOR SOLAR MORNINGSTAR 60AMP, SE REALIZA EL CAMBIO DEL DIGITAL. Q330S SN: 4867 POR Q330 SN: 4489 DEBIDO A DA\u00d1O PRESENTADO EN EL EQUIPO, SE REALIZA LA INSTALACI\u00d3N DEL MODEM-RUT240_1119035386_PARA CAMBIAR LA TRANSMISION SATELITAL A CELULAR, SE RETIRA EL MODEM COMTECH SN: 161988416. SE PODA Y LIMPIA LA ESTACI\u00d3N",
+            "ANDRES FELIPE GOMEZ,SERGIO JARAMILLO"
+        ],
+        "recomendaciones": "Mejorar el sistema de trasmisi\u00f3n de datos, el actual sistema de trasmisi\u00f3n por celular presenta varias fallas debido a la baja cobertura del proveedor del servicio en la zona, adicionale esto, se recomienda ajustar el offset del acelerometro.",
+        "fecha_creacion": "2023-7-17",
+        "n_img_ruido": 2,
+        "n_img_recom": 0
+    }
+]

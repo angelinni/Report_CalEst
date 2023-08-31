@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "En el periodo 2023-I la disponibilidad de la estaci\u00f3n fue del 95%. Durante le periodo de enero a marzo 2023, la estaci\u00f3n presento una disponibilidad menor al 70%, debido a problemas  de carga de las bater\u00edas, fue necesario instalar un panel solar de 90w. Desde febrero 21 a 30 de junio de 2023 la estaci\u00f3n presenta una disponibilidad del 100%",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 95%",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 4 Gaps diarios y un promedio de 0.51 ,los cuales son aceptables. No se han presentado overlaps.",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 5,  asociado a actividades antr\u00f3picas en la regi\u00f3n\n",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n offset promedio de -33667 cuentas en la componente Z, en la componente N -34858 cuentas y -24881 cuentas, valores que se han mantenido constantes luego de la instalaci\u00f3n del panel solar de 90w",
+        "ruido": "Durante el periodo 2023-I las curvas de ppsd muestran que los niveles de ruido en la componente vertical permanecen dentro de las curvas de referencia, mientas que las componentes horizontales exceden el 20% de los limites del ppsd, sin embargo es normal que las componentes horizontales presenten mayor ruido que la vertical.",
+        "ultima_v": [
+            "2023-2-21",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE INSTALA PANEL SOLAR DE 90W, SE LIMPIA EL PANEL QUE ESTABA INSTALADO, SE RETIRA ANTENA YAGUI. SE LIMPIA ESTACI\u00d3N.\n",
+            "Oscar Daniel Suarez "
+        ],
+        "recomendaciones": "Durante el periodo 2023-I, y luego de la instalaci\u00f3n del panel solar de 90w, la estaci\u00f3n ha presentado un buen comportamiento, sin embargo para la pr\u00f3xima visita se recomienda intentar ajustar el offset",
+        "fecha_creacion": "2023-7-19",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

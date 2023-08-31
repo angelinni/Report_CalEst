@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n en general tuvo un buen funcionamiento, tiene un buen registro de la se\u00f1al, pese a los problemas con la transmisi\u00f3n de los datos por la cobertura de la red celular.",
+        "disponibilidad": "La estaci\u00f3n present\u00f3 una disponibilidad del 99.9% durante el primer semestre",
+        "gapover": "Durante el semestre no se presentaron Overlaps, pero si tuvo un buen porcentaje de Gaps, sobre todo en el mes de febrero, esto debido a problemas con la transmisi\u00f3n celular y problemas de energ\u00eda. ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-11-4",
+            "MANTENIMIENTO CORRECTIVO",
+            "SE CAMBIA MODEM-CELULAR, SE INICIA TRANSMISION DE DATOS ANTERIORES A LA VISITA, SE INSTALA ANTENA OMNIDIRECCIONAL, SE CAMBIA BATERIA, SE LAVA PANEL SOLAR, SE PODA ESTACION.",
+            "Andr\u00e9s Felipe G\u00f3mez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

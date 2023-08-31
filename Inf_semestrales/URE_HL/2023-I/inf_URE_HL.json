@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el mes de enero y mediados de febrero la estaci\u00f3n venida presentando problemas de disponibilidad y GAPS,  de acuerdo a lo informado por el grupo de electr\u00f3nicos la falla de la estaci\u00f3n es debido a la temporada invernal \"el sistema el\u00e9ctrico no alcanza durante el d\u00eda a carga \u00f3ptimamente el banco de bater\u00edas, hasta perder comunicaci\u00f3n con el digitalizador\" \n\nEl 17 de febrero de 2023,  se cambio el aceler\u00f3metro Fortis S/N TF040 por el aceler\u00f3metro Episensor  S/N 10063\n",
+        "disponibilidad": "Se visito la estaci\u00f3n el 17 de febrero de 2023 y se informa que:\n\n- El sensor .10 ten\u00eda problemas de contacto en el b\u00fanker.\n- Se informa que hicieron cambios en los sistemas de polo a tierra de la estaci\u00f3n, para corregir \n   los picos que se observan en la se\u00f1al.\n- El aceler\u00f3metro se cambia debido a que el PIN de conexi\u00f3n del cable del sensor se encontraba \n   da\u00f1ado\nLa estaci\u00f3n fue nuevamente visitada el 13 de junio de 2023, no se cuenta con formato de mantenimiento de esta visita, sin embargo desde entonces la estaci\u00f3n ingreso y ha presentado un buen comportamiento ",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 18 Gaps diarios y un promedio de 0.22, los cuales son aceptables, se han presentado un valor m\u00e1ximo diario de 42 overlaps y valor promedio de 0.24, esto se puede presentar por problemas en el GPS, sin embargo estos valores no afectan el funcionamiento de la estaci\u00f3n",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 10 , aceptable asociado a actividades antr\u00f3picas en la regi\u00f3n",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n HL presenta un offset constante y bajo (<4000 cuentas), present\u00e1ndose los valores mas altos en la componente vertical",
+        "ruido": "Durante el periodo 2023-I la estaci\u00f3n HL, presenta valores de ppsd promedio mayores a 35%, sin embargo de acuerdo al espectro calcularlo, esto ocurre para frecuencias menores a 0.04Hz y muy ligeramente en frecuencias cercanas a 1Hz (posiblemente asociadas a actividades humanas)\n\n",
+        "ultima_v": [
+            "2023-2-17",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE CAMBIO ACELEROMETRO. FORTIS_TF040 POR EPISENSOR_10063, SE REALIZO PODA Y LIMPIEZA DE ESTACION Y DE PANELES, PUESTA A TIERRA DE TODO EL SISTEMA DE ENERG\u00cdA, SE INSTALO FUENTE PARA ALIMENTAR Q330HR, SE REPARO CABLEADO DE TRANSMISI\u00d3N A SISMOMETRO",
+            "ANDRES FELIPE GOMEZ,SERGIO JARAMILLO"
+        ],
+        "recomendaciones": "Luego de la visita del pasado 13 de junio de 2023, la estaci\u00f3n presenta buen registro,  Se recomienda durante la pr\u00f3xima  realizar las labores de mantenimiento preventivo.",
+        "fecha_creacion": "2023-8-2",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

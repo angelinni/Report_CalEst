@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n se encontraba por fuera el 1 de enero, entro de nuevo en funcionamiento el 18 de febrero gracias a una visita de mantenimiento correctivo. Durante el mes de abril tuvo intermitencia, sobre todo afectando la componetne vertical. Sale de funcionamiento el 11 de junio, ingresa el 12 de julio y desde ese momento a la fecha de elaboraci\u00f3n de este informe  se encuentra funcionando correctamente.\n",
+        "disponibilidad": "Por da\u00f1o del sensor",
+        "gapover": "Durante el mes de abril present\u00f3 gaps importantes debido a la intermitencia. Durante todo el  tiempo de funcionamiento ha tenido gaps menores.",
+        "calidad": "El equipo instalado el 18 de febrero",
+        "offset": "El offset presenta valores normales y aceptables.",
+        "ruido": "La estaci\u00f3n tiene un espectro de ruido coherente con las condiciones del sitio, con variaciones en los niveles d\u00eda noche, debido al cambio en la actividad humana. TAmbi\u00e9n se evidencia el registro de eventos sismicos.",
+        "ultima_v": [
+            "2023-04-18",
+            "Mantenimiento Correctivo",
+            "se cambio antena y cable de gps del acelerografo, se instala antena omnidireccional, ",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": "No se tienen recomendaciones particulares, m\u00e1s all\u00e1 de visitar al menos una vez al a\u00f1o la estaci\u00f3n. Se anexa fotograf\u00eda del equipo instalado actualmente.",
+        "fecha_creacion": "2023-7-27",
+        "n_img_ruido": 2,
+        "n_img_recom": 1
+    }
+]

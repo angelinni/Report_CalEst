@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-11-11",
+            "Mantenimiento Correctivo",
+            "se cambia modem_122583734 por el 221534357, buc_a00477d09 por el a03678d82, lnb_a002200b23 por el\r\na01493a82, digitaliz_q330_5838 por el 4666, se instala fuente para el digitaliz., se instala punto de telemetria con ptb1, radio freewave_842-2910 y antena yagui, se desyerba alrededor de antena y caseta y se lava arreglo de  paneles solares.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n en general funciona bien presentando disponibilidad  promedio del 91.77% en la componente HNZ, del 91.74% en la componente HNN y del 91.35% en la componente HNE. ",
+        "disponibilidad": "La disponibilidad en la componente HNZ se reduce al: 1) Enero 10-2023: 95%, 2)Febrero 7-2023: 72,1%,   3) Marzo 11-2023: 98,8%, 4) Abril 5-2023: 96,3%, 5) Mayo 27-2023: 94,1%, Junio 3-2023:99,2%, 6) Junio 8-2023: 50,9% a Junio 22-2023: 32,7%, 7) Junio 29-2023: 89,6%.\nLa disponibilidad en la componente HNN se reduce al: 1) Enero 9-2023: 94,7%, 2) Enero 14-2023: 95%, 3) Febrero 7-2023: 72.1%,  4) Marzo 11-2023: 98.6%, 5) Abril 8-2023: 99.6%, 6) Abril 5-2023: 96%, 7) Mayo 3-2023: 99.1%, 8) Mayo 16-2023: 99.3%, 9) Junio 3-2023: 99%, 10) Junio 8-2023: 50.9%, 11) Junio 9-2023 a Junio 21-2022: 0%, 12) Junio 22-2023: 33%, 13) Junio 29-2023: 89.6%.\n\nDisponibilidad componente HNE se reduce al: 1) Enero 10-2023: 71.5%, 2) Enero 14-2023: 95%, 3) Febrero 7-2023: 72.1%, 4) Marzo 11-2023: 43.7%, 5) Abril 5-2023: 96,3%, 6) Mayo 3-2023: 99.1%, 7) Mayo 27-2023: 94,1%, 8) Junio 3-2023: 99%, 9) Junio 12-21 de 2023: 0%, 10) Junio 29-2023: 89.6&\n\n",
+        "gapover": "Gaps: 1) En enero 10-2023 se presentan 12 gaps de corta duraci\u00f3n, 2) Enero 14-2023, entre las 4:03:03 y las 5:14:33, 3) Febrero 7-2023, entre las 14:19:29 y las 21:01:16, 4) Marzo 11-2023, entre 14:15:15 y las 14:33:05, 5) Marzo 18-2023, entre las 22:41:17 y las 23:00:52, 6) Abril 5-2023, tres gaps entre  las 21:04:38 y las 22:39:54, 7) Mayo 3-2023, entre las 13:52:13 y las 14:04:28, 8) Mayo 16-2023, entre las 13:50:08 y las 14:00:58, 9) Mayo 27-2023, entre las 20:01:57 y las 22:19:35, 10) Junio 3-2023, entre las 14:46:17 y las 15:12:27, 11) Desde junio 8-2023 a las 12:12:25 hasta junio 22-2023 a las 15:59:29, y 12) Junio 29-2023, entre las 12:32:14 y las 14:55:22, y entre las 17:56:42 y las 18:07:17.\nGaps HNZ: Enero 1-2023: 1. Enero 2-2023: 1. Enero 10-2023: 12. Enero 14-2023: 1. Enero 15-2023: 1. Enero 16-2023: 1. Enero 19-2023: 1. Enero 24-2023: 2. Enero 29-2023: 1. Febrero 7-2023: 1. Febrero 9-2023: 1. Febrero 16-2023: 1. Febrero 21-2023: 2. Febrero 23-2023: 1. Febrero 27-2023: 2. Febrero 28-2023: 1. Marzo 8-2023: 3. Marzo 11-2023: 2. Marzo 18-2023: 3. Marzo 21-2023: 1. Marzo 22-2023: 2. Abril 3-2023: 1. Abril 5-2023: 9. Abril 7-2023: 2. Abril 8-2023: 1. Abril 24-2023: 1. Abril 29-2023: 1. Mayo 3-2023: 1. Mayo 11-2023: 1. Mayo 16-2023: 2. Mayo 27-2023: 13. Mayo 30-2023: 2. Junio 1-2023: 2. Junio 3-2023: 6. Junio 8-2023: 1. Junio 22-2023: 4. Junio 26-2023: 1. Junio 27-2023: 1. Junio 30-2023: 1.\n\nOverlaps: Enero 10-2023: 1. Enero 24-2023: 1. Marzo 9-2023: 1. Abril 7-2023: 1. Mayo 27-2023: 1. Junio 3-2023: 2. Junio 22-2023: 2. ",
+        "calidad": " ",
+        "offset": "El offset ha variado entre valores aceptables en las tres componentes. ",
+        "ruido": " ",
+        "ultima_v": [
+            "2020-08-25",
+            "Mantenimiento Preventivo",
+            "la estacion quedo funcionando bien y los datos llegan de manera continua segun reporte de la ovs pasto, se reorganizo el sistema electrico. todos los equipos quedan funcionando bien.",
+            "Betty Silva,Jorge Mora"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-9",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

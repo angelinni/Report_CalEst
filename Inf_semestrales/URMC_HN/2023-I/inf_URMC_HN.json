@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-09-26",
+            "Mantenimiento Correctivo",
+            "se cambia sismoetro reftek_g12212 por reftek_193025, se lavan paneles solares, se desyerba alrededor estacion y bunker, se cambia acetato feed.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": "En junio muestra un offset inusual en ambso sensores, luego de que se saliera. Revisar",
+        "fecha_creacion": "2023-8-3",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

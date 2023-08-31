@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el semestre desde enero al 9 de mayo la estaci\u00f3n present\u00f3 intermitencia saliendo en las madrugadas, desde el 10 de mayo la estaci\u00f3n mejor\u00f3 manteni\u00e9ndose estable.",
+        "disponibilidad": "Desde enero al 9 de mayo la estaci\u00f3n present\u00f3 intermitencia saliendo en las madrugadas alrededor de las 2 am HL e ingresando al medio d\u00eda HL esto por fallas en el suministro de energ\u00eda solar, el 10 de mayo desde el OVS en Quind\u00edo ayudaron a ingresar la estaci\u00f3n haciendo pruebas, con esto la estaci\u00f3n dej\u00f3 de salir en la madrugada, el 16 de junio la estaci\u00f3n sali\u00f3 debido a que el plan de datos mensual se ha terminado, recargan un nuevo plan de datos y contin\u00faa su transmisi\u00f3n normal.",
+        "gapover": "La mayor\u00eda de los gaps corresponden a las salida de la.estacion en las madrugadas, y la terminaci\u00f3n del plan de estos el 16 de junio.",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mantenido una buena calidad en la se\u00f1al a pesar de las intermitencias en su disposici\u00f3n.",
+        "offset": "Para la componente Z los valores de offset han aumentado progresivamente desde enero con -7800  a 22400 para el mes de junio, y para la componente E los valores de offset han disminuido progresivamente desde 4300 en enero hasta -17800 en junio, por lo tanto es necesario un centrado de masas.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal de alto ruido para esta estaci\u00f3n de aceleraci\u00f3n, para el 10 de mayo al 24 de mayo luego de la revisi\u00f3n de la estaci\u00f3n por parte de la Universidad de Quindio el %ppsd-fuera aument\u00f3 al 100%.",
+        "ultima_v": [
+            "2023-02-24",
+            "Mantenimiento Correctivo",
+            "se cambia antena gps por fallas de la que estaba, se limpia techo y panel solar,  se descargan datos almacenados en el fortismus.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": "* Debido a las salidas en las noches por descarga de bater\u00edas, se recomienda la instalaci\u00f3n de panel solar y bater\u00eda adicionales.\n*  En dos componentes est\u00e1n cambiando el n\u00famero de cuentas progresivamente, entonces es necesario realizar un centrado de masas.",
+        "fecha_creacion": "2023-8-1",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

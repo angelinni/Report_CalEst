@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante le primer semestre de 2023, la estaci\u00f3n CBOC, ha presentado un buen comportamiento en t\u00e9rminos de calidad de se\u00f1al y disponibilidad del dato.",
+        "disponibilidad": "La la estaci\u00f3n sismol\u00f3gica CBOC, funciono al 100% de disponibilidad durante el primer semestre de 2023",
+        "gapover": "La estaci\u00f3n ha presentado un valor promedio de overlaps promedio de 0.24 y un valor promedio de gaps 0.02, valores muy  bajos que no han afectado la calidad de la se\u00f1al",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mostrado un buen comportamiento, en t\u00e9rminos de calidad, sin embargo ha presentado un m\u00e1ximo de 20 picos diarios, sin afectar el buen funcionamiento de la estaci\u00f3n.  ",
+        "offset": "Las tres componentes del la estaci\u00f3n sismol\u00f3gica, presentan valores constantes del offset en el tiempo, sin embargo la componente HZ presenta valores de Offset promedio de 5110 cuentas mientras la componente HN y HE presentan valores promedio de 1249 y -7843 cuentas respectivamente, se recomienda tratar de bajar estos valores en la pr\u00f3xima visita.",
+        "ruido": "La estaci\u00f3n CBOC, presenta niveles de ruido bajos en un amplio rango de frecuencias (0.1 a 10 Hz)",
+        "ultima_v": [
+            "2022-11-13",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE LIMPIA ANTENA, BUC, LNB Y FEED Y TAMBIEN SE LIMPIA LA ESTACION, SE CAMBIA MODEM SATELITAL CON S/N: 161995394 YA QUE PRESENT\u00d3 FALLAS Y NO ENCENDIA, SE INSTALA MODEM CON S/N: 072265319, SE VERIFICAN PAR\u00c1METROS DE FUNCIONAMIENTO. Pendiente: Se debe podar alrededor de la estaci\u00f3n.",
+            "OSCAR SUAREZ"
+        ],
+        "recomendaciones": "Se recomienda realizar pr\u00f3ximamente el mantenimiento prevenido y realizar la limpieza (poda) a la estaci\u00f3n \n\n",
+        "fecha_creacion": "2023-8-2",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

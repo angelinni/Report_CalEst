@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-03-06",
+            "Mantenimiento Preventivo",
+            "verificacion de equipos, inicio de configuracion de certificados con la ctbto, verificacion enlace con cver, instalacion de mikrotik para gestion remota.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-1 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

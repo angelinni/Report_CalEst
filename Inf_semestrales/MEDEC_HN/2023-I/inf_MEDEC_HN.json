@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La Estaci\u00f3n present\u00f3 gaps de mas de 4 d\u00edas en enero, febrero, abril, y junio, mientras la estaci\u00f3n permanecia funcionando su registro era bueno y continuo.",
+        "disponibilidad": "Debido a los grandes gaps que present\u00f3 durante el semestre, la disponibilidad promedio del semestre baj\u00f3 al 80.8%. Se inform\u00f3 que esto se deb\u00eda a problemas de memoria y de bater\u00edas.",
+        "gapover": "En general, mientras la estaci\u00f3n est\u00e1 en funcionamiento, presenta peque\u00f1os y pocos gaps en algunos d\u00edas. Sin embargo, del 23 al 28 de marzo, los cortes aumentaron de 10 a 49 gaps por d\u00eda, posiblemente debido a problemas de conexi\u00f3n con la red.",
+        "calidad": "La estaci\u00f3n present\u00f3 una buena calidad de la se\u00f1al mientras se encontraba transmitiendo en este semestre.",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes han tenido un promedio de 16000 para las componentes Z y N, y -53000 para la componente E, lo que indica un buen comportamiento. Sin embargo, el 20 de junio se cambi\u00f3 el sensor y al ingresar la se\u00f1al el 22 de junio, sus valores de offset fueron diferentes, algo que no se esperaba.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal  para esta estaci\u00f3n de aceleraci\u00f3n. La parte del espectro que se encuentra por ensima de la curva de Peterson superior corresponde en su mayoria a los multiples gaps que se present\u00f3 entre el 23 al 28 de marzo.",
+        "ultima_v": [
+            "2023-06-20",
+            "Mantenimiento Preventivo",
+            "se cambia acelerografo titan_000458 por el 000447 por problemas en la memoria, se cambia cableado de las baterias al regulador, se conecta el cable de red el cual se encontraba desconectado.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

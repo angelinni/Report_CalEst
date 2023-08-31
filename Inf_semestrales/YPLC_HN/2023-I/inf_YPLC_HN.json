@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Para todo el primer semestre de 2023 la estaci\u00f3n ha mantenido un buen funcionamiento en cuanto a disposici\u00f3n de los datos.",
+        "disponibilidad": "En general para las tres componentes la estaci\u00f3n ha presentado una disponibilidad del 100% sin cortes importantes.",
+        "gapover": "Los gaps que ha presentado la estaci\u00f3n han sido poco frecuentes y los que se han dado son gaps de menos de un minuto, estos no afectan el funcionamiento de la estaci\u00f3n.",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mantenido una buena calidad en la se\u00f1al. ",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes han tenido un promedio entre -47000 y -58000, lo que indica un buen comportamiento.",
+        "ruido": "De acuerdo con las curvas probabil\u00edsticas de densidad espectral, esta estaci\u00f3n presenta niveles de ruido aceptables en sus tres componentes",
+        "ultima_v": [
+            "2022-10-25",
+            "MANTENIMIENTO CORRECTIVO",
+            "cambio de instrumentaci\u00f3n y puesta en tiempo real de la estaci\u00f3n mediante red celular.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-6",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

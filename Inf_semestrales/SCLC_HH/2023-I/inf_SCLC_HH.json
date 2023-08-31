@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La Estaci\u00f3n ha presentado diariamente entre uno a dos cortes bajando su disponibilidad diara a 99.3%.",
+        "disponibilidad": "Los peque\u00f1os cortes periodicos que presenta parace ser que el equipo se est\u00e1 reiniciando.",
+        "gapover": "estos cortes diarios posiblemente se deba a reinicios durante el d\u00eda.",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mantenido una buena calidad en la se\u00f1al.",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes del sensor de velocidad HH han tenido un promedio entre -500 y 1000.",
+        "ruido": "Para las tres componentes las curvas probabil\u00edsticas de densidad espectral se encuentran dentro del \u00e1rea establecida por las curvas NHLM y NLNM en todo el ancho de banda, lo que indica niveles de ruido aceptables.",
+        "ultima_v": [
+            "2022-07-26",
+            "Mantenimiento Correctivo",
+            "mmtto sistema de comunicacion por satelite, el modem se encontro apagado y con una colmena de hormigas por dentro, se cambia  el 161995407 por el 082353656, se cortan cables coaxiales para mejor transmision, se verifica apuntamiento de antena satelital, se protege corneta del feed, se cambia acelerog. guiacode acc-1032/tu62 por el acc-1021/tu42, se cambia regulador 18030227 por el15020193, se lavan paneles solares, se desyerba y limpia zona.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": "- Se recomienda revisar la estaci\u00f3n sismologica, para solucionar los cortes diarios que presenta.",
+        "fecha_creacion": "2023-8-14",
+        "n_img_ruido": 3,
+        "n_img_recom": 0
+    }
+]

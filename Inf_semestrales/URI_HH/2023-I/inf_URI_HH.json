@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el periodo 2023-I la estaci\u00f3n sismologica ha presentado problemas de disponibilidad, de acuerdo al diagnostico dado por el grupo de electr\u00f3nico, esto se debe a fallas en el sistema el\u00e9ctrico en el banco de bacteria",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 49%",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 3 Gaps diarios y un promedio de 0.72 y 3 overlaps diarios con un promedio de 0.14. ",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 9, asociado a actividades antr\u00f3picas en la regi\u00f3n",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n offset promedio de -3339.14 cuentas en la componente Z, en la componente N -1994.7 cuentas y -1467.1 cuentas, luego de la ultima visita realizada el 23 de junio de 2023 el offset se ha mostrado constante y con tendencia a cero. ",
+        "ruido": "Durante los meses de abril y mayo la ppsd de la se\u00f1al muestra un comportamiento bueno, luego del mes de mayo se observa un incremento del ppsd el cual supera el 14%, este incremento del ppsd coincide con la baja disponibilidad de la se\u00f1al durante este periodo, luego de la visita del 23 de junio se observa como el valor promedio de la ppsd se mantiene en cero. por lo anterior concluimos que el aumento del ppsd es debido a la baja disponibilidad de la se\u00f1al.\n\n",
+        "ultima_v": [
+            "2023-6-23",
+            "MANTENIMIENTO PREVENTIVO",
+            "se realiz\u00f3 el env\u00edo del banco de bater\u00edas, una vez all\u00ed se requiri\u00f3 su desplazamiento en veh\u00edculo 4x4 hasta faltando 2 km para llegar a la base militar, de all\u00ed en semovientes hasta la base militar y jornaleros hasta la estaci\u00f3n. se cambi\u00f3 banco de bater\u00edas, se realiz\u00f3 limpieza de paneles solares.",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": "La estaci\u00f3n ha presentado buen comportamiento luego de la visita de mantenimiento que se realizo el 23 de junio de 2023, en la cual se realizo el cambio del banco de bater\u00edas.",
+        "fecha_creacion": "2023-7-18",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

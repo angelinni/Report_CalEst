@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-11",
+            "Mantenimiento Preventivo",
+            "se reestablece energia comerial a 119vac, se instala cargador de baterias, transferencia con con contactor de 110vac y toma electrica doblecon polo a tierra.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

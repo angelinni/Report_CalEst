@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-13",
+            "Mantenimiento Correctivo",
+            "se cambia instrumentacion por bunker inundado: digitl.guralp-das_06708/6866 por el minimus_min_d65c, acelerom. forte_tf022 por el guralp_t5hw6. se realizan adecuaciones para evitar el ingreso de agua al bunker, se cava zanja paara desague y se lava panel solar.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

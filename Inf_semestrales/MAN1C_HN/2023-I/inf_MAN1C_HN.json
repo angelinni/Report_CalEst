@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n funcion\u00f3 correctamente del 1 de enero al 22 de marzo y del 1 de junio al 30 de junio, al 100%, con pocos y peque\u00f1os gaps. Sin embargo, desde el 23 de marzo hasta el 1 de junio, la estaci\u00f3n estuvo fuera debido a problemas de conexi\u00f3n a la red de internet.",
+        "disponibilidad": "Durante los d\u00edas del 1 de enero al 22 de marzo, los datos permanecieron con una disponibilidad del 100%. El 23 de marzo, la estaci\u00f3n dej\u00f3 de funcionar. El electr\u00f3nico Ariel inform\u00f3 que se debi\u00f3 a fallas en la conexi\u00f3n de la red de internet entre el Observatorio de Manizales y la RSNC. El 1 de junio, se  reinici\u00f3 el equipo en Manizales y se configur\u00f3 la gateway del equipo y la estaci\u00f3n volvi\u00f3 a ingresar en tiempo real.",
+        "gapover": "La estaci\u00f3n ha presentado pocos gaps y los que han ocurrido han durado menos de un minuto, lo que no afecta su buen funcionamiento. Diez d\u00edas antes de salir, la estaci\u00f3n experiment\u00f3 un aumento en los overlaps en los datos diarios, lo que podr\u00eda haber sido causado por fallas en la conexi\u00f3n a la red de internet.",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mantenido una buena calidad en la\nse\u00f1al. ",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes han tenido un\npromedio entre 270 y -43000, lo que indica un buen comportamiento.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal de alto ruido para esta estaci\u00f3n de aceleraci\u00f3n.",
+        "ultima_v": [
+            "2019-07-02",
+            "Mantenimiento Preventivo",
+            "se le realiza mmtto al acelerografo en la ovs manizalez porque presentaba fallas de sincronizacion de la gps, se realiza revision y diagnostico del cableado y reubica tendido de cableada de antena gps.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-6 ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

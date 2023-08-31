@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-07-26",
+            "Formato De Instalaci\u00f3n",
+            "se instala estacion sismologica y acelerografica con los sgtes equipos: sismometro guralp 40t_t1013,\r\ndigializadores gaiacode tu21 y min-e35-c, acelerografo sig-acc-1025/tu70,.",
+            "Johnnatan Fernandez,Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-2 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

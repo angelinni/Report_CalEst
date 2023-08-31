@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "A partir del 9 de abril, la estaci\u00f3n sali\u00f3 de funcionamiento por lo que empez\u00f3 a presentar problemas con la carga de las bater\u00edas. \nEl 11 de junio, el electr\u00f3nico Sergio Jaramillo, quien estaba de comisi\u00f3n, pudo reestablecer la estaci\u00f3n despu\u00e9s de realizar cambios del banco de bater\u00edas, de MODEM_142649516 POR EL 052155996,  PONCHA CABLE LMR400 EN EL EXTREMO DEL BUC,  LIMPIA paneles solares Y PODA LA ESTACION. ",
+        "disponibilidad": "Mientras la estaci\u00f3n estuvo en funcionamiento, tuvo una disponibilidad de 100% y no present\u00f3 Gaps.",
+        "gapover": " ",
+        "calidad": "El 28 de junio se realizo cambio en la configuraci\u00f3n de las l\u00edneas de control del aceler\u00f3metro en la Q330. Se configura como GURALP_LOW para corregir  unos picos que se estaban registrando en el aceler\u00f3metro.",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-6-11",
+            "MANTENIMIENTO CORRECTIVO",
+            "Se realizaron cambios del banco de bater\u00edas, de MODEM_142649516 POR EL 052155996,  PONCHA CABLE LMR400 EN EL EXTREMO DEL BUC,  LIMPIA paneles solares Y PODA LA ESTACION. ",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

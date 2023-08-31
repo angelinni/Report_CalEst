@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "aaaa",
+        "disponibilidad": "asasasdffff",
+        "gapover": "qwr2323423423",
+        "calidad": "asdfasdf",
+        "offset": "asdff",
+        "ruido": "234234234",
+        "ultima_v": [
+            "2023-02-16",
+            "Mantenimiento Correctivo",
+            "se realiza templado de cerca, ajuste de tornilleria y orientacion de antena de radio y panel solar, revision de conexiones entre dispositivos, arreglo conectividad de radio-enlace.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-14 ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

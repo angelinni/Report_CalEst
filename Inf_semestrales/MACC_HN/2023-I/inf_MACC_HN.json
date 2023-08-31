@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "En el periodo 2023-I la disponibilidad de la estaci\u00f3n fue del 84.5%. Durante le periodo de enero a marzo 2023, la estaci\u00f3n presento una disponibilidad menor al 100%, la estaci\u00f3n se encuentra por fuera desde junio debido a problemas en su regulador solar. La estaci\u00f3n dej\u00f3 de cargar las bater\u00edas desde el d\u00eda 30 de mayo del 2023.\n",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 84.4%\n",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 1 Gaps diarios y un promedio de 0.02 ,los cuales son aceptables. Se han presentado 3 overlaps m\u00e1ximos diarios y un promedio de 0.2.\n",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 3,  asociado a actividades antr\u00f3picas en la regi\u00f3n.",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n ha presentado un offset promedio de -27700 cuentas en la componente Z, en la componente N -13115 cuentas y -13115 cuentas en la componente HE. ",
+        "ruido": "Durante el periodo 2023-I las curvas de ppsd muestran que los niveles de ruido en la componente vertical exceden 35% de las curvas de referencia, la componente HNN 35% y la componente HNE 35%, del espectro se observa que la curva de ruido excede la de referencia a frecuencias menores a 0.1Hz y cerca a 1Hz",
+        "ultima_v": [
+            "2022-10-10",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE CAMBIA MODEM_122583733 POR EL 221534360, LNB_000636 POR EL NORSAT COD. 050760, SE CAMBIA ACETATO FEED Y SE IMPERMEABILIZA CON CINTA ASF\u00c1LTICA, SE DESYERBA Y LIMPIA ALREDEDOR CASETA Y ANTENA. Pendiente: SE DEJAN LLAVES CON PROPIETARIO FINCA PARA QUE APICULTOR RETIRA COLMENA DE ABEJAS.\n",
+            "JUAN CARLOS LIZCANO"
+        ],
+        "recomendaciones": "Se requiere solucionar la falla del regulador solar en la carga del banco de bater\u00eda. La estaci\u00f3n dej\u00f3 de cargar las bater\u00edas desde el d\u00eda 30 de mayo del 2023 y ajustar el offset del acelerografo",
+        "fecha_creacion": "2023-7-19",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

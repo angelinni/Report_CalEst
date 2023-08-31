@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "En el periodo 2023-I la disponibilidad de la estaci\u00f3n fue del 98.13%. Durante le periodo de enero abril 2023, la estaci\u00f3n presento una disponibilidad del 100%, durante el periodo de abril a julio de 2023, la estaci\u00f3n ha presentado peque\u00f1as perdidas de datos asociadas problemas de la trasmisi\u00f3n v\u00eda celular, en general ha presentado un funcionamiento promedio en el semestre del 98.13% ",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 98.13%\n",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 65 Gaps diarios y un promedio de 2.07 , estos se han presentado principalmente en el periodo abril a junio de 2023, periodo en el que han presentado problemas de comunicaci\u00f3n, no se ha presentado overlaps",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 2,  asociado a actividades antr\u00f3picas en la regi\u00f3n.",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n ha presentado un offset promedio de -74274 cuentas en la componente Z, en la componente N -49767 cuentas y -189479 cuentas en la componente HE. ",
+        "ruido": "Durante el periodo 2023-I las curvas de ppsd muestran que los niveles de ruido en la componente vertical exceden 38% de las curvas de referencia, la componente HNN 39% y la componente HNE 41%, del espectro se observa que la curva de ruido excede la de referencia a frecuencias menores a 0.1Hz y cerca a 1Hz a 3 Hz (asociado a actividades humanas)",
+        "ultima_v": [
+            "2022-11-13",
+            "MANTENIMIENTO PREVENTIVO",
+            "ESTACI\u00d3N CON FALLAS DE COMUNICACI\u00d3N POR PROBLEMAS EN EL MODEM CELULAR, SE CAMBIA. SE ENVIA PULSO DEL OFFSET DEL ACELEROMETRO ETNA, SE DESYERBA ALREDEDOR DE PANEL Y BUNKER, SE ARREGLA CERCADO.\n",
+            "JUAN CARLOS LIZCANO"
+        ],
+        "recomendaciones": "La estaci\u00f3n ha presentado un buen comportamiento durante el semestre, se recomienda ajustar el offset al acelerografo etna 2 y realizar la poda y desyerbe en la pr\u00f3xima visita",
+        "fecha_creacion": "2023-7-19",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

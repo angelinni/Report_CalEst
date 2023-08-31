@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-03-26",
+            "Mantenimiento Correctivo",
+            "se cambio banco de baterias y se adicionaron 2 paneles de 240w, buc_a00086d06 por el sn: a03682d82, lnb sn: a00117b82 por el sn: a01479a81, feed, modem sn: 122583730 por el sn: 221534363, se limpio bunker, se traslado fuente de caseta al bunker.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

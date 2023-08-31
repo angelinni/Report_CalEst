@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el primer semestre la estaci\u00f3n tuvo un funcionamiento del 99.4% por lo que en el mes de febrero estuvo por fuera por falta de recarga del plan de celular.",
+        "disponibilidad": " ",
+        "gapover": "Durante el semestre tuvo 78 gaps, esto debido a la cobertura de la red celular con la que se transmite los datos. No present\u00f3 overlaps",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-23",
+            "Mantenimiento Preventivo",
+            "se verifica el correcto funcionamiento de la instrumentacion y telemetria, se limpia estacion. pendiente: instalar letrero del sgc.",
+            "Marisol Gomez Cano,Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

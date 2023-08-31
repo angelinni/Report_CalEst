@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el periodo de tiempo que la estaci\u00f3n estuvo por dentro, mantuvo un buen funcionamiento.",
+        "disponibilidad": "El 31 de marzo la estaci\u00f3n sali\u00f3 del funcionamiento por da\u00f1o en el regulador, y hasta el 27 de junio la estaci\u00f3n ingresa luego del mantenimento preventivo.",
+        "gapover": "Luego de ingresar la estaci\u00f3n en Junio se present\u00f3 peque\u00f1os cortes  que no han afectado el buen funcionamiento de la estaci\u00f3n.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-19",
+            "Mantenimiento Preventivo",
+            "estacion apagada por dano de regulador, se cambia regulador_17410486 por el 19380369, sismom. reftek_193040 por el 193036. se instala rack para la disposicion de los equipos de la estacion, aseo de paneles y desyerbado.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

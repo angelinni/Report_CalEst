@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n desde que ingres\u00f3 el 3 de marzo  ha presentado cortes en la madrugada por problemas de bater\u00edas.",
+        "disponibilidad": "Para el primer semestre de 2023 la estaci\u00f3n tuvo un promedio de disponibilidad del 41.6% debido a su ausencia de datos del 1 de enero al 2 de marzo, y cortes diarios en las noches por descarga de bater\u00edas. Despu\u00e9s de la visita el 28 de Febrero el electr\u00f3nico informa que la estaci\u00f3n presentar\u00eda periodos con problemas de atrasos e intermitencias (ingresando y saliendo) debido a la calidad de la red celular en la zona, y que se encuentra con problemas estructurales y de bater\u00eda.",
+        "gapover": "Los Gaps que presenta ha sido por las salidas de la se\u00f1al en las noches.",
+        "calidad": "Durante el primer semestre de 2023, en general la estaci\u00f3n ha mantenido una buena calidad en la se\u00f1al, los cortes que ha tenido ha generado fluctuaciones en los datos recibidos.",
+        "offset": "Desde el 4 de marzo los valores de offset han sido normales para las componentes Norte y Este, en la componente Z hay d\u00edas que las cuentas se elevan a m\u00e1s de 400 mil esto puede ser en los momentos cuando la estaci\u00f3n vuelve a ingresar al recuperar energ\u00eda.",
+        "ruido": "En general de acuerdo con las curvas probabil\u00edsticas de densidad espectral, esta estaci\u00f3n presenta niveles de ruido aceptables en sus tres componentes, el ruido registrado por encima de las curvas de Peterson puede corresponder a esos reinicios de la estaci\u00f3n al recuperar energ\u00eda.\n",
+        "ultima_v": [
+            "2023-02-28",
+            "Mantenimiento Correctivo",
+            "se instala modem-celular, mastil y antena yagui para transmision celular, se instala regulador 15111763, se cambia sistema de conexion de baterias, se retira modem_191329396 y regulador 12411674. se\r\nlavan paneles solares y se desyerba alrededor de la caseta.",
+            "Johnnatan Fernandez,Juan Carlos Lizcano"
+        ],
+        "recomendaciones": "*  A pesar de que las condiciones en la estaci\u00f3n no son \u00f3ptimas y se esperaba estos fallos por la calidad de red, bater\u00eda y estructura f\u00edsica, ubicaci\u00f3n en la costa, se recomienda reubicar la estaci\u00f3n a un lugar con mejores condiciones.",
+        "fecha_creacion": "2023-8-2",
+        "n_img_ruido": 3,
+        "n_img_recom": 0
+    }
+]

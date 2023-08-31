@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n ingres\u00f3 a transmisi\u00f3n en tiempo real el 19 de febrero. La falla es debido a la cobertura del operador de celular de Wom. Se tiene programado en el pr\u00f3ximo plan de comisiones la visita a la estaci\u00f3n para mejor la recepci\u00f3n de la se\u00f1al del operador de celular cambiando a otro operador e instalando una antena yagi. Atte: Ariel Portocarrero.",
+        "disponibilidad": "La estaci\u00f3n tuvo una disponibilidad primedio de 41%, debido a problemas de transmisi\u00f3n y de energ\u00eda",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-17",
+            "Mantenimiento Correctivo",
+            "se cambia tarjeta sim card (claro), se cambian baterias 12vdc, regulador_19340259 por el 19340760, se instala antena yagui, se instala gabinete para equipos, se desyerba alrededor caseta.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

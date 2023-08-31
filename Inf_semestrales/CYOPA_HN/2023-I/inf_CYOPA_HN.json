@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante los meses de enero hasta el 18 de abril, el funcionamiento fu\u00e9 en general bueno con gaps peque\u00f1os y p\u00e9rdida de datos los d\u00edas 26 y 27 de enero, 12 de marzo. Desde el 19 de abril empez\u00f3 a aumentar los gaps, bajando la disponibilidad por debajo del 85%.",
+        "disponibilidad": "La disponibilidad se manten\u00eda en general mayor del 89% desde el 2 de enero al 18 de abril, con la excepci\u00f3n del 1 y 27 de enero con 0% y el 12 de marzo con 47%. Desde el 19 de abril hasta el 30 de junio disminu\u00eda la disponibilidad por d\u00eda. Desde el 10 de mayo, la estaci\u00f3n empezaba a salirse en las madrugadas e ingresaba entre las 7 am y 9 am Hora Local. La salida en la noche progresivamente aumentaba, sali\u00e9ndose m\u00e1s temprano cada noche. Ariel y Johnnatan informan que ha presentado fallas del sistema el\u00e9ctrico debido a las constantes lluvias que no permiten que la bater\u00eda se cargue adecuadamente durante el d\u00eda y as\u00ed poder soportar el funcionamiento durante la madrugada.",
+        "gapover": "Los n\u00fameros de gaps eran peque\u00f1os desde el 2 de enero al 23 de abril, posiblemente por cortes de la transmisi\u00f3n por internet. Desde el 9 de mayo aumenta progresivamente los gaps hasta el 30 de junio, alcanzando a tener m\u00e1s de 25 gaps al d\u00eda. Esto debido a la descarga de las bater\u00edas en las noches.",
+        "calidad": "Durante este semestre, la calidad de la se\u00f1al se ha mantenido buena. Desde el 9 de mayo, se evidencia un cambio en los datos, coincidiendo con el inicio de la intermitencia en la disponibilidad por descarga de las bater\u00edas.",
+        "offset": "Desde el 9 de mayo, se ha observado un descenso en las cuentas de la componente Z, lo que coincide con el inicio de la intermitencia en la estaci\u00f3n debido a la descarga de las bater\u00edas. Sin embargo, el promedio de offset para cada componente se ha mantenido dentro de los rangos normales y aceptables, sin presentar cambios dr\u00e1sticos ni derivas.",
+        "ruido": "De acuerdo con las curvas probabil\u00edsticas de densidad espectral, esta estaci\u00f3n presenta niveles de ruido aceptables en sus tres componentes.",
+        "ultima_v": [
+            "2022-10-25",
+            "MANTENIMIENTO CORRECTIVO",
+            "CAMBIO DE INSTRUMENTACION Y PUESTA EN TIEMPO REAL DE LA ESTACI\u00d3N MEDIANTE RED CELULAR.",
+            "OSCAR SUAREZ"
+        ],
+        "recomendaciones": "La estaci\u00f3n ha estado saliendo en las noches debido a la descarga de las bater\u00edas. Seg\u00fan lo informado por Ariel, para solucionar este problema el\u00e9ctrico, es necesario instalar m\u00e1s paneles solares  y bater\u00edas.",
+        "fecha_creacion": "2023-7-6",
+        "n_img_ruido": 3,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante le primer semestre de 2023, la estaci\u00f3n Armec, la cual llega a la Universidad del Quind\u00edo y es compartida a la sede central del SGC v\u00eda internet, ha presentado GAPS debido principalmente por problemas de seguridad en el dominio publico de la Universidad del Quind\u00edo, lo cual ha ocasionado la presencia de estos GAPS",
+        "disponibilidad": "La la estaci\u00f3n acelerografica ARMEC, funciono al 84.62% de disponibilidad durante el primer semestre de 2023",
+        "gapover": "La estaci\u00f3n ha presentado un valor promedio de overlaps promedio de 0.3 y un valor promedio de gaps 81, estos ocasionados principalmente por problemas de seguridad en el dominio publico de la Universidad del Quind\u00edo",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mostrado un buen comportamiento a pesar de la variabilidad del offset en el tiempo, es posible que esto se deba a las condiciones donde se encuentra ubicada la estaci\u00f3n, ya que esta cerca a paso de estudiantes y una de las v\u00edas de acceso a la universidad del Quind\u00edo",
+        "offset": "Las tres componentes del aceler\u00f3metro presentan gran variabilidad del offset en el tiempo, esto debido posiblemente a  las condiciones de ruido del sitio, sin embargo la componente HZ presenta valores de Offse promedio de 4327.05 cuentas mientras la componente HN y HE presentan valores promedio de 16.27 y -476.32 cuentas respectivamente, se recomienda tratar de bajar estos valores en la pr\u00f3xima visita. ",
+        "ruido": "Durante el primer semestre de 2023, el ruido de la estaci\u00f3n se mantiene mas del 75 % del tiempo por encima de las curvas de referencia de Peterson, esto se debe principalmente a ruido antr\u00f3pico ya que la estaci\u00f3n se encuentra pr\u00f3xima a una v\u00eda de acceso a la universidad y al transito de estudiantes, como se puede observar en las figuras del espectro, estos valores altos de ruido se present\u00e1ndose principalmente a frecuencias mayores a 1HZ (ruido antr\u00f3pico)",
+        "ultima_v": [
+            "2019-10-20",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE REALIZA MMTTO CORRECTIVO A LA ESTACION CON LA ACTUALIZACION DEL FIMWARE QUE RESUELVE EL PROBLEMA DE WEEK NUMBER ROLL OVER, QUEDA OPERANDO CORRECTAMENTE",
+            "ANDRES FELIPE GOMEZ"
+        ],
+        "recomendaciones": "Se recomienda solicitar llenar formatos de mantenimiento al OSQ, desde hace varios a\u00f1os el OSQ de la Universidad del Quind\u00edo nos ha apoyado con el mantenimiento preventivo de esta estaci\u00f3n, sin embargo no se est\u00e1n diligenciando los formatos de visita.\n",
+        "fecha_creacion": "2023-7-12",
+        "n_img_ruido": 2,
+        "n_img_recom": 0
+    }
+]

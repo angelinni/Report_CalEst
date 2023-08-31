@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n tuvo un buen funcionamiento durante el primer semestre. Las ocasiones que estuvo sin funcionamiento debido a que se termin\u00f3 la recarga\u00a0del pan de datos de la linea de celular por el cual se transmite los datos.",
+        "disponibilidad": "La estaci\u00f3n tuvo un promedio del 98% de disponibilidad",
+        "gapover": "Tuvo un promedio de gaps de 0.31",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-12-10",
+            "Mantenimiento Correctivo",
+            "retiro etna_144 por fortus-mus_7a59, para comunicacion en tiempo real, con modem teltonika rut240 1119038354, se encontro norte geografico con error de 14\u00b0 al este.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

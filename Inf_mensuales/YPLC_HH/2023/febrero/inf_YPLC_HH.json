@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "aa",
+        "disponibilidad": "aa",
+        "gapover": "aa",
+        "calidad": "ccc",
+        "offset": "ccc",
+        "ruido": "oppppp",
+        "ultima_v": [
+            "2022-10-24",
+            "Mantenimiento Preventivo",
+            "se limpian equipos, se instalan breaks dc entre paneles y el regulador y de las baterias a las cargas, se limpian paneles solares, y maleza alrededor de shelter y antena.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": "sdfgadfg",
+        "fecha_creacion": "2023-7-25",
+        "n_img_ruido": 1,
+        "n_img_recom": 1
+    }
+]

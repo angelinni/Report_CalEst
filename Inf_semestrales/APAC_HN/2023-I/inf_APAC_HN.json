@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": "El 28 de junio se realizo cambio en la configuraci\u00f3n de las l\u00edneas de control del aceler\u00f3metro en la Q330. Se configura como GURALP_LOW para corregir  unos picos que se estaban registrando en el aceler\u00f3metro.",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-08",
+            "Mantenimiento Correctivo",
+            "se cambia modem_142649516 por el 052155996, se poncha cable lmr400 en el extremo del buc, se cambia banco de baterias, se limpia y poda la estacion, se limpian paneles solares.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

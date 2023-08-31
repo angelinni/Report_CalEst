@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-24",
+            "Mantenimiento Correctivo",
+            "se verifican conexiones electricas, se limpian bornes de las baterias, se ubica plastico encima de las baterias, se hace canal para salida de agua de la caseta, se cambia radio cod_042201 y 034713 por los cod. 028166 y 046594.",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-10 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

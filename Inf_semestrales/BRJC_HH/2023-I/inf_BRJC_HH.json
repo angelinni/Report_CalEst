@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "En el periodo 2023-I la disponibilidad de la estaci\u00f3n fue del 99.8%. La estaci\u00f3n ha presentado peque\u00f1as perdidas de datos asociadas problemas de la trasmisi\u00f3n v\u00eda celular",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 99.8%\n",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 4 Gaps diarios y un promedio de 0.27,  se ha presentado un promedio de overlaps en el semestre de 0.03, valores que no afectan el buen funcionamiento de la estaci\u00f3n",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 11,  asociado a actividades antr\u00f3picas en la regi\u00f3n.",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n ha presentado un offset promedio de -339 cuentas en la componente Z, en la componente N -209 cuentas y 31.2 cuentas en la componente HE. valores bajos",
+        "ruido": "Durante el periodo 2023-I las curvas de ppsd muestran que los niveles de ruido en la componente vertical permanecen dentro de las curvas de referencia, mientas que las componentes horizontales exceden el 7% de los limites del ppsd, sin embargo es normal que las componentes horizontales presenten mayor ruido que la vertical. Los periodos de tiempo donde la ppsd excede las curvas de referencia coincide con los periodos de tiempo en que se generan mas picos en la estaci\u00f3n, esto puede ser ocasionado por ruido generado cerca a la estaci\u00f3n",
+        "ultima_v": [
+            "2022-11-13",
+            "MANTENIMIENTO PREVENTIVO",
+            "ESTACI\u00d3N CON FALLAS DE COMUNICACI\u00d3N POR PROBLEMAS EN EL MODEM CELULAR, SE CAMBIA. SE ENVIA PULSO DEL OFFSET DEL ACELEROMETRO ETNA, SE DESYERBA ALREDEDOR DE PANEL Y BUNKER, SE ARREGLA CERCADO.\n",
+            "JUAN CARLOS LIZCANO"
+        ],
+        "recomendaciones": "La estaci\u00f3n ha presentado un buen comportamiento durante el semestre, se recomienda realizar la poda y desyerbe en la pr\u00f3xima visita",
+        "fecha_creacion": "2023-7-19",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

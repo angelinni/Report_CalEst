@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-12-10",
+            "Mantenimiento Correctivo",
+            "debido a problemas con sismometro se cambia el  sts-2.5_120918 por reftek_193022, se cambia buc por fallo, retiral el a00234d07 por el a00591d0x , se lava antena y paneles solares, se desyerba y podan arboles.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

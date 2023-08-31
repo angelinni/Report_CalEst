@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Esta estaci\u00f3n se ha caracterizado por mantener un \u00f3ptimo funcionamiento. A continuaci\u00f3n se disponen par\u00e1metros relevantes sobre esta estaci\u00f3n. ",
+        "disponibilidad": "No se perdieron datos en la adquisici\u00f3n, 100% de datos.",
+        "gapover": "Durante la primera mitad de 2023 la estaci\u00f3n no present\u00f3 gaps. Lo que significa una constante adquisici\u00f3n de datos. Los overlaps se pueden deber a problemas en la transmisi\u00f3n de datos que duplica los paquetes enviados.",
+        "calidad": "En esta secci\u00f3n se presenta informaci\u00f3n asociada al Offset y Analisis de la calidad de ruido en la estaci\u00f3n RUS sensor HH.",
+        "offset": "La estaci\u00f3n present\u00f3 niveles aceptables similares a los presentados en informes anteriores, teniendo promedios de 81 cuentas en la componente vertical, 912 cuentas en la componente este y 670 cuentas en la componente norte, dichos valores son del orden normal al cual se registran los datos en la Red Sismol\u00f3gica Nacional.",
+        "ruido": "Las curvas probabil\u00edsticas de densidad espectral muestran que la estaci\u00f3n se encuentra dentro del \u00e1rea establecida por la curvas NHLM y NLNM, mostrando alta calidad, para las tres componentes. Aunque en las componentes N y E el nivel promedio del ruido se ubica dentro de los niveles del mismo, se observa una variaci\u00f3n para las bajas frecuencias, que historicamente se ha evidenciado en esta estaci\u00f3n.",
+        "ultima_v": [
+            "2022-10-04",
+            "Mantenimiento Preventivo",
+            "se  hizo limpieza de paneles y antena, medicion de voltajes y corrientes del sistema de energia.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": "Actualmente la estaci\u00f3n mantiene buena se\u00f1al y correcto funcionamiento. ",
+        "fecha_creacion": "2023-8-1",
+        "n_img_ruido": 2,
+        "n_img_recom": 0
+    }
+]

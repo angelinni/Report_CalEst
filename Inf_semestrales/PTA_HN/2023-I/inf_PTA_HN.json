@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-28",
+            "Mantenimiento Correctivo",
+            "se instala modem-celular, mastil y antena yagui para transmision celular, se instala regulador 15111763, se cambia sistema de conexion de baterias, se retira modem_191329396 y regulador 12411674. se\r\nlavan paneles solares y se desyerba alrededor de la caseta.",
+            "Johnnatan Fernandez,Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

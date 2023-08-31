@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-17",
+            "Mantenimiento Correctivo",
+            "se cambio acelerom. fortis_tf040 por episensor_10063, se realizo poda y limpieza de estacion y de paneles, puesta a tierra de todo el sistema de energia, se instalo fuente para alimentar q330hr, se reparo cableado de transmision a sismometro.",
+            "Andres Felipe Gomez,Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-26 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n tuvo un buen funcionamiento durante el primer semestre, solo present\u00f3 un problema los d\u00edas 18 y 19 de marzo, que pudo ser del cable de conexi\u00f3n de datos del digitalizador o la alimentaci\u00f3n el\u00e9ctrica entre la caseta y b\u00fanker.",
+        "disponibilidad": "La disponibilidad tuvo un promedio del 99.6%",
+        "gapover": "Se presentaron un numero significativo de overlaps, que se indicar\u00e1 al grupo de electronica para que se revise.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": "La estaci\u00f3n es un poco ruidosa debido al sitio donde se encuentra instalada.",
+        "ultima_v": [
+            "2022-09-05",
+            "Mantenimiento Correctivo",
+            "se cambia modem_191329404 por el 142649449 por problemas de transmision, se desyerba alredeor caseta, se limpia interior caseta, se lavan paneles solares.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 2,
+        "n_img_recom": 0
+    }
+]

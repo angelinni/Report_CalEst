@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el mes de enero y mediados de febrero la estaci\u00f3n venida presentando problemas de disponibilidad y GAPS,  de acuerdo a lo informado por el grupo de electr\u00f3nicos la falla de la estaci\u00f3n es debido a la temporada invernal \"el sistema el\u00e9ctrico no alcanza durante el d\u00eda a carga \u00f3ptimamente el banco de bater\u00edas, hasta perder comunicaci\u00f3n con el digitalizador\" \n\nEl 17 de febrero de 2023,  se cambio el aceler\u00f3metro Fortis S/N TF040 por el aceler\u00f3metro Episensor  S/N 10063\n",
+        "disponibilidad": "Se visito la estaci\u00f3n el 17 de febrero de 2023 y se informa que:\n1. El sensor .10 ten\u00eda problemas de contacto en el b\u00fanker. \n2. Se informa que hicieron cambios en los sistemas de polo a tierra de la estaci\u00f3n, para corregir los picos que se observan en la se\u00f1al.\n3. El aceler\u00f3metro se cambia debido a que el PIN de conexi\u00f3n del cable del sensor se encontraba da\u00f1ado",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 16 Gaps diarios y un promedio de 0.19, los cuales son aceptables, se han presentado 34 overlaps m\u00e1ximos diarios y valor promedio de 4, esto puede ser ocasionado por problemas de configuraci\u00f3n del GPS, de igual forma los valores son aceptables.",
+        "calidad": "Durante los meses de febrero a junio se observa en el espectro de ruidos un comportamiento c\u00edclico el cual no es normal, adicional a esto la estaci\u00f3n presenta valores de offset altos, sin embargo luego de la visita del 13 de junio el comportamiento del espectro de ruido mejora y ya no se observa el comportamiento c\u00edclico que se observaba en los meses anteriores",
+        "offset": "Durante el periodo de funcionamiento la estaci\u00f3n ha presentado valores altos del offset, 40497 cuentas para la componente HZ, -116403 cuentas componente HN y 10819 cuentas la componente HE",
+        "ruido": "El espectro de la estaci\u00f3n acelerografica URE, se encuentra un 35% el ppsd por fuera del limite superior de referencia, sin embargo esto se observa para frecuencias menores a 0.1 Hz, En algunos casos las curvas de ruido muestran un comportamiento oscilatorio, lo cual puede ser provocados por un mal funcionamiento del sensor, sin embargo luego de la visita del 13 de junio de 2023, la estaci\u00f3n presenta un espectro un niveles de ruido bajos en frecuencias 0.2 a 10 HZ",
+        "ultima_v": [
+            "2023-7-2",
+            "MANTENIMIENTO PREVENTIVO",
+            "Se realizo el mantenimiento preventivo, se cambio acelerometro. fortis_tf040 por episensor_10063, se realizo poda y limpieza de estaci\u00f3n y de paneles, puesta a tierra de todo el sistema de energ\u00eda, se instalo fuente para alimentar q330hr, se reparo cableado de transmisi\u00f3n a sismometro.\n",
+            "Andres Felipe Gomez, Sergio Jaramillo "
+        ],
+        "recomendaciones": "Luego de la visita del pasado 13 de junio de 2023, la estaci\u00f3n acelerogr\u00e1fica presenta buen registro, sin embargo el offset de las tres componentes es alto. Se recomienda durante la pr\u00f3xima visita ajustar estos valores.",
+        "fecha_creacion": "2023-8-2",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

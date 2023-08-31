@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-21",
+            "Mantenimiento Correctivo",
+            "ddurante visita no se pudo bajar nivel de offset de las componentes z y n/s, por lo que cambia sismometro, tambien se cambio banco de baterias, se instalo rack de interperie con 2 paneles y 2 baterias, el cual independiza enrgia entre bunker y caseta.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-9",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

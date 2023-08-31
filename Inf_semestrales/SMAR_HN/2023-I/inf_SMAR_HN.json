@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": "La estaci\u00f3n es un poco ruidosa debido al sitio donde se encuentra instalada.",
+        "ultima_v": [
+            "2022-09-05",
+            "Mantenimiento Correctivo",
+            "se cambia modem_191329404 por el 142649449 por problemas de transmision, se desyerba alredeor caseta, se limpia interior caseta, se lavan paneles solares.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

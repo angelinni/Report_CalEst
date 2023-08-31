@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-23",
+            "Mantenimiento Correctivo",
+            "se realiza mmtto al sistema de energia solar, se cambia banco de baterias por deterioro,  se lavan paneles solares y se podan ramas que le dan sombra.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": "El responsable tem\u00e1tico de estaci\u00f3n est\u00e1 mal. Resolver.\nHacer seguimiento al sistema de transmisi\u00f3n\nRevisar el offset de la componente Z. Es cuando se sale la estaci\u00f3n?",
+        "fecha_creacion": "2023-8-3",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

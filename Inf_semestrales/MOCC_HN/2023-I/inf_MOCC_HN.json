@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n entra a funcionamiento en tiempo real el 20 de febrero. Esta estaci\u00f3n transmite por medio de servicio de internet de la finca en donde se encuentra instalada la estaci\u00f3n de aceler\u00f3grafo.",
+        "disponibilidad": "La estaci\u00f3n tuvo un promedio del 68% de disponibilidad de los datos durante el semestre. ",
+        "gapover": "La estaci\u00f3n presenta algunos gaps debido a fallo en el flujo de transmisi\u00f3n de los datos de la residencia.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-19",
+            "Mantenimiento Preventivo",
+            "se retira etna_2431 que estaba por disparo y se instala etna-2_103766 en tiempo real,  se realizan labores de mmtto y limpieza, lavado de paneles.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-13",
+            "Mantenimiento Correctivo",
+            "cambio del sistema de comunicaciones del envio de la informacion en tiempo real, se instala modem celular_1119031230, se limpia panel solar, aislamiento termico de sensores (cava de icopor), se instala cartel del sgc.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

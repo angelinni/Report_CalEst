@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n estuvo con intermitencia en el funcionamiento del 1 al 27 de abril y del 7 al 17 de junio",
+        "disponibilidad": "La estaci\u00f3n durante el primer semestre tuvo un promedio de disponibilidad del 90%",
+        "gapover": "Durante el semestre tuvo 185 gaps, esto debido a la cobertura de la red celular con la que se transmite los datos. Hubo overlaps durante los meses de marzo y abril.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-19",
+            "Mantenimiento Preventivo",
+            "se revisa el estado de los equipos instalados, de las conexiones entre equipos y aseo en el entorno de la caseta.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

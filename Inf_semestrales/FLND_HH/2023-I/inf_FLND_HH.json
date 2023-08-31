@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": "Los gaps presentados durante el primer semestre son debido a problemas con la cobertura del operador de red celular con el que se transmiten los datos.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-23",
+            "Mantenimiento Preventivo",
+            "se realiza limpieza de la estacion y se verifica el correcto funcionamiento de la instrumentacion y telemetria. pendiente: instalar letrero del sgc.",
+            "Marisol Gomez Cano,Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

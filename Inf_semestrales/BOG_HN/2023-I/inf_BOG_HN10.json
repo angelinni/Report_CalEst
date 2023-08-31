@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el primer semestre de 2023, la estaci\u00f3n funcion\u00f3 adecuadamente del 1\u00b0 de enero al 7 de junio de 2023. El 8 de junio la disponibilidad se redujo al 65%. Del 9 al 27 de junio de 2023 la estaci\u00f3n estuvo por fuera y entr\u00f3 nuevamente en funcionamiento a partir del 28 de junio de 2023. ",
+        "disponibilidad": "La estaci\u00f3n funcion\u00f3 satisfactoriamente del 1\u00b0 de enero al 7 de mayo, con disponibilidad promedio del 99,77% al 99,96% durante enero a mayo de 2023.  Del 1\u00b0 al 7 de junio de 2023 la disponibilidad promedio fue del 99,14%; el 8 de junio se redujo al 65% y del 9 al 27 de junio del 0%. El 28 de junio la estaci\u00f3n entr\u00f3 nuevamente en funcionamiento con una disponibilidad del 33%, para pasar al 100% a partir del 29 de junio.  \n",
+        "gapover": "Se presentan 3 gaps en enero, 1 gap en febrero, 6 gaps en marzo, 6 gaps en abril, 8 gaps en mayo, 5 en junio.\nSe presentan 5 overlaps en enero, 12 en febrero, 8 3n marzo, 11 en abril, 2 en mayo y uno en junio de 2023. ",
+        "calidad": " ",
+        "offset": "El offset est\u00e1 un poco alto especialmente en la vertical. Las variaciones de offset es un poco alta en las tres componentes.",
+        "ruido": "Espectro de ruido t\u00edpico de u aceler\u00f3grafo",
+        "ultima_v": [
+            "2022-10-25",
+            "Mantenimiento Preventivo",
+            "se verificaron los voltajes y corrientes de operacion, se realizo limpieza dentro de caseta, limpieza de equipos y ajuste de offset del acelerometro.",
+            "Johnnatan Fernandez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-14 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

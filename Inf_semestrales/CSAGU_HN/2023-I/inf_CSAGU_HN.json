@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "La estaci\u00f3n  continua presentando intermitencia en el registro desde el 24 de diciembre. Es probable que el problema sea de comunicaci\u00f3n, porque la transmisi\u00f3n se realiza mediante el Internet del colegio en donde se encuentra instalada, por esto, el d\u00eda 13 de febrero se hizo un cambio en el sistema de comunicaciones para transmitir v\u00eda celular.",
+        "disponibilidad": "La estaci\u00f3n ha tenido mala transmisi\u00f3n y por ende la disponibilidad de promedio de los datos fue de 87%",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-13",
+            "Mantenimiento Correctivo",
+            "cambio del sistema de comunicaciones del envio de la informacion en tiempo real, se instala modem celular_1119031230, se limpia panel solar, aislamiento termico de sensores (cava de icopor), se instala cartel del sgc.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

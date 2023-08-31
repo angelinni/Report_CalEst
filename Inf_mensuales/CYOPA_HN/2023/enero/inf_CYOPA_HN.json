@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-10-25",
+            "Mantenimiento Correctivo",
+            "cambio de instrumentacion y puesta en tiempo real de la estaci\u00f3n mediante red celular.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-7-25 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

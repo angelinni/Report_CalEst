@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-24",
+            "Mantenimiento Correctivo",
+            "se cambia antena gps por fallas de la que estaba, se limpia techo y panel solar,  se descargan datos almacenados en el fortismus.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-1 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Esta estaci\u00f3n ingres\u00f3 a transmisi\u00f3n de tiempo real el 14 de febrero. La estaci\u00f3n present\u00f3 fallas por el sistema de comunicaciones, debido a que la cobertura de la red por operador de celular en la zona donde se encuentra la estaci\u00f3n es un poco deficiente.",
+        "disponibilidad": "La estaci\u00f3n present\u00f3 un promedio de disponibilidad de los datos de 53%. El mes de mayo estuvo el mayor tiempo por fuera.",
+        "gapover": "Ha presentado un numero alto de gaps debido a la mala cobertura de la red de celular.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-10",
+            "Mantenimiento Correctivo",
+            "instalacion antena omnidireccional, panel solar acional de 90w, cava de icopor para sensor, desyerbe de estacion, instalacion letrero del sgc.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

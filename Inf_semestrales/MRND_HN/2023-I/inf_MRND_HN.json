@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": "La estaci\u00f3n presenta fallas por el sistema de comunicaciones, es posible que el m\u00f3dem celular est\u00e9 bloqueado o posibles fallas en la cobertura de la red por operador de celular.",
+        "gapover": "Estos cortes son por fallas del sistema de comunicaciones o degradaci\u00f3n de la se\u00f1al de radiofrecuencia emitida por el operador de celular, en esta zona donde est\u00e1 la estaci\u00f3n. Pero tambi\u00e9n se observa que hay una anomal\u00eda en el digitalizador que no recupera y env\u00eda la informaci\u00f3n, cuando se restablece las comunicaciones.",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-12-07",
+            "Mantenimiento Correctivo",
+            "instalacion panel solar de 90w y soporte, 2 baterias, se cambio cerco de proteccion a la estacion, se instala cartel informativo sgc.",
+            "Ariel Portocarrero,Elizabeth Mazo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

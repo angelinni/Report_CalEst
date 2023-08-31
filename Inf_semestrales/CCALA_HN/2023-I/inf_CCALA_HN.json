@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante le primer semestre de 2023, la estaci\u00f3n CCALA, la cual llega a la Universidad del Quind\u00edo y es compartida a la sede central del SGC v\u00eda internet, ha presentado GAPS debido principalmente por problemas de seguridad en el dominio publico de la Universidad del Quind\u00edo, lo cual ha ocasionado la presencia de estos GAPS",
+        "disponibilidad": "La la estaci\u00f3n acelerografica CCALA, funciono al 87% de disponibilidad durante el primer semestre de 2023",
+        "gapover": "La estaci\u00f3n ha presentado un valor promedio de overlaps promedio de 4 y un valor promedio de gaps 038, estos ocasionados principalmente por problemas de seguridad en el dominio publico de la Universidad del Quind\u00edo",
+        "calidad": "Durante el primer semestre de 2023, la estaci\u00f3n ha mostrado un buen comportamiento con un valor promedio de 31000 cuentas",
+        "offset": "Las tres componentes del aceler\u00f3metro presentan variabilidad del offset en el tiempo,  sin embargo los valores promedio de las tres componente son similares, la componente HZ presenta valores de Offse promedio de -29703 cuentas mientras la componente HN y HE presentan valores promedio de -32565.57 y 35865 cuentas respectivamente, se recomienda tratar de bajar estos valores en la pr\u00f3xima visita. ",
+        "ruido": "Durante el primer semestre de 2023, el ruido de la estaci\u00f3n se mantiene el 39 % del tiempo por encima de las curvas de referencia de Peterson, sin embargo al observar el espectro se tiene que la PSD sobresale de las curvas de referencia en el rango de frecuencias menores a 0.2 HZ y sobresale ligeramente en las frecuencias de 1 a 5 HZ esto se debe principalmente a ruido antr\u00f3pico. La estaci\u00f3n se encuentra ubicada cerca a la casa de una finca y una v\u00eda veredal poco transitada",
+        "ultima_v": [
+            "2020-6-3",
+            "MANTENIMIENTO PREVENTIVO",
+            "Se recomienda solicitar llenar formatos de mantenimiento al OSQ, desde hace varios a\u00f1os el OSQ de la Universidad del Quind\u00edo nos ha apoyado con el mantenimiento preventivo de esta estaci\u00f3n, sin embargo no se est\u00e1n diligenciando los formatos de visita.",
+            "MARISOL GOMEZ CANO"
+        ],
+        "recomendaciones": "Se recomienda solicitar llenar formatos de mantenimiento al OSQ, desde hace varios a\u00f1os el OSQ de la Universidad del Quind\u00edo nos ha apoyado con el mantenimiento preventivo de esta estaci\u00f3n, sin embargo no se est\u00e1n diligenciando los formatos de visita",
+        "fecha_creacion": "2023-8-2",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

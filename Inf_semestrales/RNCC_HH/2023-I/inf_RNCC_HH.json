@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-03-25",
+            "Mantenimiento Correctivo",
+            "se retiro shelter por oxidacion y se instala uno nuevo, se instala arreglo de 8 paneles de 240w, reguladores, se protejen conexiones electricas, sensor guralp_40t_t44324 y digitaliz. minimus_min-d15c, modem  y antena satelital.",
+            "Diego Paez,Johnnatan Fernandez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

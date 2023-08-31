@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el mes de enero y mediados de febrero la estaci\u00f3n venida presentando problemas de disponibilidad y GAPS,  de acuerdo a lo informado por el grupo de electr\u00f3nicos la falla de la estaci\u00f3n es debido a la temporada invernal \"el sistema el\u00e9ctrico no alcanza durante el d\u00eda a carga \u00f3ptimamente el banco de bater\u00edas, hasta perder comunicaci\u00f3n con el digitalizador\" \n",
+        "disponibilidad": "Se visito la estaci\u00f3n el 17 de febrero de 2023 y se informa que:\n1. El sensor .10 ten\u00eda problemas de contacto en el b\u00fanker. \n2. Se informa que hicieron cambios en los sistemas de polo a tierra de la estaci\u00f3n, para corregir los picos que se observan en la se\u00f1al.\n3. El aceler\u00f3metro se cambia debido a que el PIN de conexi\u00f3n del cable del sensor se encontraba da\u00f1ado",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 11 Gaps diarios y un promedio de 0.06, los cuales son aceptables, se han presentado 33 overlaps m\u00e1ximos diarios y valor promedio de 4, esto puede ser ocasionado por problemas de configuraci\u00f3n del GPS, de igual forma los valores son aceptables ",
+        "calidad": "Durante el periodo de funcionamiento la estaci\u00f3n presenta buen registro ",
+        "offset": "Durante el periodo de funcionamiento la estaci\u00f3n ha presentado valores normales del offset, 1492.11 cuentas para la componente HZ, 576.72 cuentas componente HN y 961 cuentas la componente HE",
+        "ruido": "En t\u00e9rminos generales, durante el primer semestre de 2023, el espectro de ruido de la estaci\u00f3n HH se mantuvo dentro de los limites de ruido en todo el rango de frecuencias durante casi todo el semestre, los rangos donde la linea de la ppsd se encuentra por fuera coincide con los periodos de baja disponibilidad de la estaci\u00f3n ",
+        "ultima_v": [
+            "2023-2-17",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE CAMBIO ACELEROM. FORTIS_TF040 POR EPISENSOR_10063, SE REALIZO PODA Y LIMPIEZA DE ESTACION Y DE PANELES, PUESTA A TIERRA DE TODO EL SISTEMA DE ENERGIA, SE INSTALO FUENTE PARA ALIMENTAR Q330HR, SE REPARO CABLEADO DE TRANSMISION A SISMOMETRO.",
+            "ANDRES FELIPE GOMEZ, SERGIO JARAMILLO"
+        ],
+        "recomendaciones": "La estaci\u00f3n estuvo por fuera durante el mes de junio de 2023, de a cuerdo a lo informado por el electr\u00f3nico de turno,  La estaci\u00f3n presenta fallas del sistema de comunicaci\u00f3n satelital, existe portadora en el analizador de espectro pero al parecer no hay recepci\u00f3n, es posible que el Feed o Corneta de la antena satelital el acetato de protecci\u00f3n este roto e ingreso agua a sus cavidades o humedad o el LNB presenta da\u00f1o. El sistema el\u00e9ctrico fotovoltaico, el \u00faltimo dato que envi\u00f3 antes de salirse la estaci\u00f3n, fue de 25.48Vdc. Este \u00faltimo valor de voltaje implica que estaba muy por encima del valor de corte del banco de bater\u00edas (22.9Vdc), de acuerdo a lo anterior se recomienda tener en cuenta los comentarios anteriores para la pr\u00f3xima visita a la estaci\u00f3n y solucionar los problemas de trasmisi\u00f3n que presenta la estaci\u00f3n",
+        "fecha_creacion": "2023-7-17",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

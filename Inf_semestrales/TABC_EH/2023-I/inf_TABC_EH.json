@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "desde el 3 de enero la estaci\u00f3n presentaba fallas manteniendo la se\u00f1al casi durante todo el d\u00eda por fuera,  desde el 1 de marzo  en adelante mantuvo un buen funcionamiento.",
+        "disponibilidad": "Desde enero la estaci\u00f3n presentaba problemas causado por el deterioro del enlace de radios entre el cerro Cruz Verde y la sede de RSNC,  el 1 de marzo el electr\u00f3nico Ariel realiza trabajos en la estaci\u00f3n y la se\u00f1al empieza a ingresar con normalidad.",
+        "gapover": "Las fallas que ten\u00eda la estaci\u00f3n en enero y febrero se evidencia tambi\u00e9n con el aumento de gaps y overlaps por d\u00eda, ya despu\u00e9s del 1 de marzo el n\u00famero de cortes ha sido normal.",
+        "calidad": "En los meses de enero y febrero por las fallas en el enlace de radio el numero de picos diarios era de 8, la estaci\u00f3n  mantuvo una buena calidad en la se\u00f1al despues del 1 de marzo.",
+        "offset": "Entre los meses de enero y febrero  por los gaps que presentaba  no era posible calcular los valores de offset, desde el 1 de marzo los valores de offset han sido normales.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal de ruido para esta\nestaci\u00f3n de corto periodo.",
+        "ultima_v": [
+            "2022-03-15",
+            "Mantenimiento Preventivo",
+            "pruebas al enlace de telemetria con el cerro \"cruz verde\" por medio de radios seriales.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]

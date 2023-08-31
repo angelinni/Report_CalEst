@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-07-26",
+            "Mantenimiento Correctivo",
+            "mmtto sistema de comunicacion por satelite, el modem se encontro apagado y con una colmena de hormigas por dentro, se cambia  el 161995407 por el 082353656, se cortan cables coaxiales para mejor transmision, se verifica apuntamiento de antena satelital, se protege corneta del feed, se cambia acelerog. guiacode acc-1032/tu62 por el acc-1021/tu42, se cambia regulador 18030227 por el15020193, se lavan paneles solares, se desyerba y limpia zona.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 3,
+        "n_img_recom": 0
+    }
+]

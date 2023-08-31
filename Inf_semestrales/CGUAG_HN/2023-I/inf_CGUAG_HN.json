@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-21",
+            "Mantenimiento Correctivo",
+            "se retira equipo gaia code con sn: sig-acc-1027/tu66 cb: 058272 y se instala nanometrics sn: 000457 y cb: 041136, se coloca cava de icopor, ya que actualmente el sitio no cuenta con aire acondicionado.\r\n",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-9",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

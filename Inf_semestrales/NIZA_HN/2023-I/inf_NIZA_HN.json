@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-05-17",
+            "Mantenimiento Correctivo",
+            "se cambio bateria 12v40ah, se instala radios seriales con la estaci\u00f3n y en el sgc \u2013 manizales\r\nse retira radio con sn: 8931572 y cb: 028143 y se instala lantronix ud1100 con cb: 025205\r\n",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-18",
+            "Mantenimiento Correctivo",
+            "se limpian los paneles solares y se  instalan 4 adicionales cod. 051848, 051849, 052853, 051856, se cambia bateria danada, se verifican conexiones electricas.",
+            "Andres Felipe Gomez"
+        ],
+        "recomendaciones": "Hacer seguimiento a los gaps que se empezaron a presentar de nuevo finalizando junio",
+        "fecha_creacion": "2023-8-3",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

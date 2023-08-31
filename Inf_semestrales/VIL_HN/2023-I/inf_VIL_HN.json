@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-04-27",
+            "Mantenimiento Correctivo",
+            "se cambia switch, se cambian protecciones rf en modem, se unifican polos a tierra de los equipos, se verifica enlace con estaciones ach1 y ach6. pendiente: soldar bisagra inferior de la puerta, instala cava de icopor al sensor tsm-1.",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-03-18",
+            "Mantenimiento Preventivo",
+            "configuracion y verificacion de enlace de radio cpamp-pam con radio freewave. pendiente: instalar gabinete para proteger equipos.",
+            "Andres Felipe Gomez,Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante le primer semestre de 2023, la estaci\u00f3n ZAR, la cual cuenta con transmisi\u00f3n satelital, ha ha presentado un promedio de disponibilidad del 69%, adicional ha esto se han identificado picos an\u00f3malos las cuales se han intentado solucionar enviando centrados de masas pero el problema persiste ",
+        "disponibilidad": "La la estaci\u00f3n sismologica ZAR, funciono al 69% de disponibilidad durante el primer semestre de 2023",
+        "gapover": "Se presentaron overlaps durante el primer semestre de 2023 con un valor m\u00e1ximo diario de 2 y un promedio de 0.16, y un promedio de gaps de 0.03, posiblemente relacionados con problemas de transmisi\u00f3n o adquisici\u00f3n de datos ",
+        "calidad": "El offset de la estaci\u00f3n presenta valores contantes durante el tiempo de disponibilidad, sin embargo se observan periodos largo en la estaci\u00f3n que han dificultado el calculo de magnitudes en algunos casos, El sensor 00 presenta oscilaciones extra\u00f1as, de igual forma se  Se observan un conteo de picos significativo en las tres componentes, posiblemente relacionados con problemas de las conexiones el\u00e9ctricas entre los dispositivos instalados o actividades antr\u00f3picas cercanas\na la estaci\u00f3n.",
+        "offset": "Las tres componentes del sismografo presentan gran variabilidad del offset en el tiempo, esto debido posiblemente a  las condiciones de ruido del sitio, En el periodo 2023-1.\n\n\n",
+        "ruido": "Durante el primer semestre de 2023 la estaci\u00f3n sismol\u00f3gica presenta un valor promedio del ppsd por fuera del 11.71%,  present\u00e1ndose principalmente durante los meses de abril, mayo y julio de 2023, de acuerdo un espectro de ruido este ruido se observa a frecuencias inferiores a 0.1 HZ ",
+        "ultima_v": [
+            "2022-10-10",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE CAMBIA DIGITALIZADOR Q330_3903 POR EL Q330_3994 POR DANO ENE TARJETA DE RED, SE INSTALA CERCA PARA PROTEGER BUC DE LA ANTENA SATELITAL, ASEO GENERAL DE LA ESTACION",
+            "JUAN MANUEL SOLANO"
+        ],
+        "recomendaciones": "Se recomienda durante la pr\u00f3xima visita cambiar el sensor y verificar las conexiones el\u00e9ctricas, el sensor ha presentado oscilaciones extra\u00f1as en la se\u00f1al las cuales no se han podido corregir enviando centrados de masas, adicionalmente presenta gran cantidad de picos que han dificultado su uso al momento de localizar un evento s\u00edsmico",
+        "fecha_creacion": "2023-7-14",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

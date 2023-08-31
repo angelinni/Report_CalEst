@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": "El equipo instalado el 18 de febrero",
+        "offset": "El offset presenta valores normales y aceptables, las componentes horizontales tienen valores m\u00e1s altos que la componente vertical, lo que es usual en equipos de banda ancha, debido a las sensibilidad de las componente horizontales a los cambios de presi\u00f3n y temperatura dentro del habit\u00e1culo del sensor.",
+        "ruido": "Las tres componente del sensor de banda ancha presentan un espectro coherente con el nivel de ruido del sitio.  Adem\u00e1s, se registra un buen n\u00famero de eventos s\u00edsmicos . Las componentes horizontales tienene mayor nivel de ruido en bajas frecuencias dada la sensibilidad de estas componentes a los cambios de presi\u00f3n y temperatura.",
+        "ultima_v": [
+            "2023-06-08",
+            "Mantenimiento Correctivo",
+            "se cambia cableado en el rack, se sella caseta para ingreso de roedores, se realiza poda y limpieza de la estacion.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 12,
+        "n_img_recom": 0
+    }
+]

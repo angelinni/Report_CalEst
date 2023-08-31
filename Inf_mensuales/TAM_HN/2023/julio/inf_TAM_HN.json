@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-19",
+            "Mantenimiento Preventivo",
+            "estacion apagada por dano de regulador, se cambia regulador_17410486 por el 19380369, sismom. reftek_193040 por el 193036. se instala rack para la disposicion de los equipos de la estacion, aseo de paneles y desyerbado.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-8-1 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

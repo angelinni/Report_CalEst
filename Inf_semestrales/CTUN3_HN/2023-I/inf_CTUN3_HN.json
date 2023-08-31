@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-24",
+            "Mantenimiento Correctivo",
+            "se instala acelerografo fortimus_fmus_1c5a y modem celular_1119037163 para transmision en tiempo real, se retira etna_123. pendiente: se recomienda instalar otro panel de 50w y otra bateria.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": " ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

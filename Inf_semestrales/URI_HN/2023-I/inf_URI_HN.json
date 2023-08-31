@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Durante el periodo 2023-I la estaci\u00f3n sismologica ha presentado problemas de disponibilidad, de acuerdo al diagnostico dado por el grupo de electr\u00f3nico, esto se debe a fallas en el sistema el\u00e9ctrico en el banco de bacteria",
+        "disponibilidad": "Durante el periodo 2023-I la estaci\u00f3n sismol\u00f3gica ha presentado un promedio de disponibilidad del 49%\n",
+        "gapover": "Se han presentado un valor m\u00e1ximo de 3 Gaps diarios y un promedio de 0.72 y 3 overlaps diarios con un promedio de 0.14. ",
+        "calidad": "La estaci\u00f3n ha presentado buen registro en el periodo tiempo, con un m\u00e1ximo de picos diario de 4, asociado a actividades antr\u00f3picas en la regi\u00f3n",
+        "offset": "Durante el periodo 2023-I, la estaci\u00f3n offset promedio de -3647.82 cuentas en la componente Z, en la componente N -11995.44 cuentas y 916.02 cuentas. Se recomienda ajustar el offset al equipo.",
+        "ruido": "Durante el periodo 2023-I la estaci\u00f3n ha presentado un valor promedio de 37% del ppsd por fuera en la componente Z, 32% en la componente norte y 35 en la componente E, esto se debe principalmente a actividades antr\u00f3picas (1 Hz) en cerca a la estaci\u00f3n",
+        "ultima_v": [
+            "2023-6-23",
+            "MANTENIMIENTO PREVENTIVO",
+            "SE REALIZ\u00d3 EL ENV\u00cdO DEL BANCO DE BATER\u00cdAS, UNA VEZ ALL\u00cd SE REQUIRIO SU DESPLAZAMIENTO EN VEHICULO 4X4 HASTA FALTANDO 2 KM PARA LLEGAR A LA BASE MILITAR, DE ALLI EN SEMOVIENTES HASTA LA BASE MILITAR Y JORNALEROS HASTA LA ESTACI\u00d3N. SE CAMBI\u00d3 BANCO DE BATER\u00cdAS, SE RELIZ\u00d3 LIMPIEZA DE PANELES SOLARES.",
+            "ANDRES FELIPE GOMEZ"
+        ],
+        "recomendaciones": "La estaci\u00f3n ha presentado buen comportamiento luego de la visita de mantenimiento que se realizo el 23 de junio de 2023, en la cual se realizo el cambio del banco de bater\u00edas.",
+        "fecha_creacion": "2023-7-18",
+        "n_img_ruido": 1,
+        "n_img_recom": 0
+    }
+]
