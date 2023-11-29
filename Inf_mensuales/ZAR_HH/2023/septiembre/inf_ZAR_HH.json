@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-10-10",
+            "Mantenimiento Correctivo",
+            "se cambia digitalizador q330_3903 por el q330_3994 por dano ene tarjeta de red, se instala cerca para proteger buc de la antena satelital, aseo general de la estacion.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

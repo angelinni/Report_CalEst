@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-09-20",
+            "Mantenimiento Correctivo",
+            "se realiza el cambio del chip de comunicaciones. se realiza limpieza de los paneles solares. se realiza limpieza de la zona. se realiza centrado de masas al sism\u00f3metro y se confirma el correcto funcionamiento de la estaci\u00f3n con la sede principal en bogot\u00e1",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

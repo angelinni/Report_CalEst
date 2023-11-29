@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-06-07",
+            "Mantenimiento Correctivo",
+            "desyerbe y limpieza del area del bunker y caseta, cambio de conector para lnb, cambio conexiones cable que alimenta el digitalizador desde la caseta. pendiente: instalar breakes dc, cambiar cable que alimenta el digitalizador.",
+            "Johnnatan Fernandez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-11-13 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

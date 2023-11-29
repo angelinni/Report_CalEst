@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-07-13",
+            "Mantenimiento Correctivo",
+            "se verifican los parametros del sistema de comunicaciones, se cambia antena gps, corneta del feed que estaba rota, se cambia lnb_a01848b14 por el a01495a82, switch_g130424592 por el sixnet_t135006882 se realiza poda, fumigacion y limpiea gral de la estacion.",
+            "Johnnatan Fernandez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

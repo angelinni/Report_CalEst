@@ -1,11 +1,11 @@
 [
     {
-        "funcionamiento": " ",
-        "disponibilidad": " ",
-        "gapover": " ",
-        "calidad": " ",
-        "offset": " ",
-        "ruido": " ",
+        "funcionamiento": "Durante el tiempo que la estaci\u00f3n estuvo transmitiendo datos, sus tres componentes funcionaron correctamente.",
+        "disponibilidad": "El 31 de marzo de 2023, la estaci\u00f3n dej\u00f3 de transmitir debido a problemas de energ\u00eda causados por un da\u00f1o en el regulador. El 27 de junio de 2023, la estaci\u00f3n volvi\u00f3 a funcionar luego del mantenimiento.",
+        "gapover": "Desde que se reincorpor\u00f3 el 27 de junio, la estaci\u00f3n ha presentado un gap diario de un segundo cada uno.",
+        "calidad": "Durante este semestre mientras la estaci\u00f3n transmitia datos la calidad de la se\u00f1al se ha mantenido buena.",
+        "offset": "Durante este semestre, los valores de offset para las tres componentes han tenido un promedio entre -40000 y 23000, lo que indica un buen comportamiento.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal de ruido para esta estaci\u00f3n de aceleraci\u00f3n.",
         "ultima_v": [
             "2023-06-19",
             "Mantenimiento Preventivo",
@@ -14,7 +14,7 @@
         ],
         "recomendaciones": " ",
         "fecha_creacion": " ",
-        "n_img_ruido": 0,
+        "n_img_ruido": 3,
         "n_img_recom": 0
     }
 ]

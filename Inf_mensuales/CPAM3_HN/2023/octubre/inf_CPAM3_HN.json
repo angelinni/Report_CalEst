@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-12-05",
+            "Mantenimiento Correctivo",
+            "se retira etna_147 y se instala  episensor_6860 y geospace_1664, y  modem teltonika-rutc-240_1119036349, para transmision en tiempo real.",
+            "Juan Manuel Solano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-11-1 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

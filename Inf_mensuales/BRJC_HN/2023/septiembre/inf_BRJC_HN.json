@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-11-13",
+            "Mantenimiento Correctivo",
+            "estacion con fallas de comunicacion por problemas en el modem celular, se cambia. se envia pulso del offset del acelerometro etna, se desyerba alrededor de panel y bunker, se arregla cercado.",
+            "Juan Carlos Lizcano"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

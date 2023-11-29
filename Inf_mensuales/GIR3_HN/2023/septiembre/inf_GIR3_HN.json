@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-08-05",
+            "Formato De Instalaci\u00f3n",
+            "se instala estacion temporal con los sgtes equipos: acelerografo titan sma-1_000459, antena gps, regulador solar_19340226, paneles solares y baterias, modem-celular_1119035802.",
+            "Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-9-5 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

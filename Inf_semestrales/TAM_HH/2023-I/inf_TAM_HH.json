@@ -3,9 +3,9 @@
         "funcionamiento": "Durante el periodo de tiempo que la estaci\u00f3n estuvo por dentro, mantuvo un buen funcionamiento.",
         "disponibilidad": "El 31 de marzo la estaci\u00f3n sali\u00f3 del funcionamiento por da\u00f1o en el regulador, y hasta el 27 de junio la estaci\u00f3n ingresa luego del mantenimento preventivo.",
         "gapover": "Luego de ingresar la estaci\u00f3n en Junio se present\u00f3 peque\u00f1os cortes  que no han afectado el buen funcionamiento de la estaci\u00f3n.",
-        "calidad": " ",
-        "offset": " ",
-        "ruido": " ",
+        "calidad": "Desde el 1 de enero al 31 de marzo, la estaci\u00f3n tuvo una calidad mala debido a que los valores de offset alcanzaron a ser muy extremos y presentando varios picos al d\u00eda.",
+        "offset": "Desde el 20 de febrero la componente Z desciende progresibamente hasta llegar a los -2 millones de cuentas, y la componente E ascendia hasta llegar a los 2.9 millones de cuentas para el d\u00eda 31 de marzo, despues del mantenimiento la estaci\u00f3n se estabiliz\u00f3.",
+        "ruido": "El espectro para cada componente es calculado con el programa sqlx para todo el primer semestre de 2023, mostrando un comportamiento normal de ruido para esta estaci\u00f3n.",
         "ultima_v": [
             "2023-06-19",
             "Mantenimiento Preventivo",
@@ -14,7 +14,7 @@
         ],
         "recomendaciones": " ",
         "fecha_creacion": " ",
-        "n_img_ruido": 0,
+        "n_img_ruido": 3,
         "n_img_recom": 0
     }
 ]

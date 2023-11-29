@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": "Desde el 2 de agosto en adelante ha tenido un buen funcionamiento.",
+        "disponibilidad": "Los d\u00edas del 1 y 2 de agosto present\u00f3 varios cortes, el 2 de agosto Johnnatan cambi\u00f3 la SIMCard a Movistar.",
+        "gapover": "Varios cortes el 1 y 2 de agosto por problemas de transmisi\u00f3n que se soluciona el 2 de agosto. pero se ha visto que presenta varios picos al d\u00eda, y Andres Felipe comenta que estos picos pueden ser del movimiento de los \u00e1rboles debido a r\u00e1fagas de vientos.",
+        "calidad": "Ha tenido un comportamiento normal en su calidad.",
+        "offset": "Los valores de offset han estado dentro de lo normal y esperado.",
+        "ruido": " ",
+        "ultima_v": [
+            "2022-10-25",
+            "Mantenimiento Correctivo",
+            "cambio de instrumentacion y puesta en tiempo real de la estaci\u00f3n mediante red celular.",
+            "Oscar Suarez"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-9-12 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

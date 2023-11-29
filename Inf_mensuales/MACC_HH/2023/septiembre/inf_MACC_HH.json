@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-07-14",
+            "Mantenimiento Correctivo",
+            "debido a  descarga electrica se encontraron algunos equipos del sistema de counicacion con fallas, se cambiam modem, buc, lnb, banco de baterias, regulador solar y switch. se instalan 4 baterias secas  de 12vdc (2-75ah/2-55ah), se desyerba estacion y se lava arreglo de paneles solares. pendiente: instalacion banco de baterias, regulador solar",
+            "Ariel Portocarrero"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

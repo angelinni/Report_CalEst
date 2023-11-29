@@ -1,0 +1,20 @@
+[
+    {
+        "funcionamiento": " ",
+        "disponibilidad": " ",
+        "gapover": " ",
+        "calidad": " ",
+        "offset": " ",
+        "ruido": " ",
+        "ultima_v": [
+            "2023-02-06",
+            "Mantenimiento Correctivo",
+            "se cambio el sistema de energia comercial por energia solar, se instalaron 4 paneles solares de 240w y regulador solar morningstar 60amp, se realiza el cambio del digital. q330s sn: 4867 por q330 sn: 4489 debido a da\u00f1o presentado en el equipo, se realiza la instalaci\u00f3n del modem-rut240_1119035386_para cambiar la transmision satelital a celular, se retira el modem comtech sn: 161988416. se poda y limpia la estaci\u00f3n.",
+            "Andres Felipe Gomez,Sergio Jaramillo"
+        ],
+        "recomendaciones": " ",
+        "fecha_creacion": "2023-10-3 ",
+        "n_img_ruido": 0,
+        "n_img_recom": 0
+    }
+]

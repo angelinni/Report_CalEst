@@ -25,6 +25,7 @@ from bokeh.plotting import figure
 
 
 
+
 class Plot():
     
     def __init__(self, estacion,sensor, fecha_ini,fecha_fin,list_est):
@@ -543,6 +544,7 @@ class Plot():
                 #st.markdown(f"**:green[Promedio overlaps:]** {overlaps_prom}")
             else:
                 print(f"No hay datos para la estación {estacion} entre las fechas del {fecha_ini} {fecha_fin}")  
+    
     def plot_ppsd_fij(self, can, folder,two_sensores=False):
         
         #folder = self.folder
@@ -1418,9 +1420,9 @@ class Plot():
         
     
 
-def plot_ruido(fecha,est,sensor, can):#yyyy-mm-dd
+def plot_ruido(fecha,est,sensor, can,red="CM"):#yyyy-mm-dd
     
-    folder_ruido = os.path.dirname(os.path.abspath(__file__))+'/Datos/CM/ppsd_mean/'
+    folder_ruido = os.path.dirname(os.path.abspath(__file__))+f'/Datos/{red}/ppsd_mean/'
     
     if os.path.exists(folder_ruido+f"{est}_{sensor}{can}.json") == True:
         with open(folder_ruido+f"{est}_{sensor}{can}.json", 'r') as file:
@@ -1889,3 +1891,152 @@ def actualizar_estado(est,sensor,comentario):
         n_dict = {'fecha':[text_fech_creacion], 'comentario':[comentario]}
         df = pd.DataFrame(n_dict)
         df.to_csv(file_esta, index=False)
+
+def create_db_all_state():
+
+    #(self, estacion,sensor, fecha_ini,fecha_fin,list_est):
+
+    #self.folder = download_folder
+    #self.estacion = estacion
+    #self.sensor = sensor
+    #self.fecha_ini = fecha_ini
+    #self.fecha_fin = fecha_fin
+    #self.list_est = list_est
+    
+
+    list_est = sorted(glob.glob(os.path.dirname(os.path.abspath(__file__))+f"/Datos/CM/Tablas_Cal_/*"))
+    st.markdown("**Estacion   | Canal  | Sensor  | %disp** |Prom Gaps | Prom offset | Prom_picos | ppsd_prom | ultima visita |resp_tem | resp_elec")
+
+    
+    ##READ Ultima Visita
+    file_xlsx = os.path.dirname(os.path.abspath(__file__))+"/dat_est/lastServiceMaintenance.xlsx"
+    tab_est_uv = pd.read_excel(file_xlsx)
+
+    #READ RESPONSABLES
+    file_xlsx = os.path.dirname(os.path.abspath(__file__))+"/dat_est/stationReportCodLocation.xlsx"
+        
+    tab_est = pd.read_excel(file_xlsx)
+
+    for all_est in list_est:
+
+        estacion = all_est.split("/")[-1].split("_")[0]
+        canal = all_est.split("/")[-1].split("_")[1]
+        sensor = all_est.split("/")[-1].split("_")[2]
+
+        df_est = pd.read_csv(all_est)
+
+        #Cambio de formato de fecha a datetime
+        f_date = []
+        for e in df_est["fecha"]:
+            year, month, day = e.split("-")
+            f_date.append(datetime(int(year),int(month),int(day)))
+        
+        #Cambio de formato de fecha times_gaps a datetime
+        df_est["fecha"] = f_date
+
+        #filtro por fechas seleccionadas
+        
+        ayer= datetime.now()-timedelta(days=1)
+        mes_antes=datetime.now()-timedelta(days=33)
+        filtro_fecha = (df_est["fecha"] >= mes_antes) & (df_est["fecha"] <= ayer) 
+        fil_time = df_est[filtro_fecha]
+
+        #DATOS
+        #Disponibilidad
+        prom_dis = fil_time["disponibilidad"].mean() 
+        #gaps
+        # promedio de gaps y mas
+        lista_gaps_sin_nueves=[]
+        for i in range(0,len(fil_time["fecha"])):
+            if np.isnan(fil_time["num_gaps"].iloc[i]):
+                continue
+            if fil_time["num_gaps"].iloc[i] != -9: #se le puso -9 a los datos no disponibles
+                lista_gaps_sin_nueves.append(fil_time["num_gaps"].iloc[i])
+        
+        if len(lista_gaps_sin_nueves) !=0:
+            gaps_prom = round(np.mean(np.array(lista_gaps_sin_nueves)),2)
+        if len(lista_gaps_sin_nueves) ==0:
+            gaps_prom=0
+
+        #offset
+        ###Datos promedio, y mas
+        lista_offset_sin_ceros=[]
+        for of in fil_time["offs"]:
+            if str(of) != "nan" and of != None and of != -9 :
+                
+                lista_offset_sin_ceros.append(of)
+                
+        
+        
+        if len(lista_offset_sin_ceros) >0:
+            offset_prom=round(np.mean(np.array(lista_offset_sin_ceros)),2)
+        else:
+            offset_prom=0
+        
+        #Picos
+        lista_picos_sin_nueves=[]
+        for i in range(0,len(fil_time["fecha"])):
+            if np.isnan(fil_time["peaks"].iloc[i]):
+                continue
+            if fil_time["peaks"].iloc[i] != -9: #se le puso -9 a los datos no disponibles
+                lista_picos_sin_nueves.append(fil_time["peaks"].iloc[i]) 
+        
+        pic_prom=round(np.mean(np.array(lista_picos_sin_nueves)),2)
+
+        ##PPSD
+        lista_ppsd_sin_menosnueves=[]
+        for of in fil_time["p_ppsd"]:
+            if np.isnan(of):
+                continue
+            if of != -9:
+                lista_ppsd_sin_menosnueves.append(of)
+
+        if len(lista_ppsd_sin_menosnueves) != 0: 
+            ppsd_prom = round(np.mean(np.array(lista_ppsd_sin_menosnueves)),2)
+        if len(lista_ppsd_sin_menosnueves) == 0: 
+            ppsd_prom = None
+
+        ##Ultima Visita
+        tab_est2 = tab_est_uv.drop(tab_est.index[[0]])
+        tit=["ESTACION","ESTADO ESTACION","FECHA MANTENIMIENTO","TIPO DE MANTENIMIENTO", "RED DE MONITOREO","COMISIONADOS",	"REGISTRO CARGADO POR",	"COMENTARIOS"]
+        tab_est2.columns = tit
+
+        #filtro por Estación
+        filtro_estacion = (tab_est2["ESTACION"] == estacion)
+        fil_est3 = tab_est2[filtro_estacion]
+        #st.dataframe(fil_est3)
+        
+        if len(fil_est3) > 0:
+            fecha_man = fil_est3["FECHA MANTENIMIENTO"].iloc[0]
+            tip_man=fil_est3["TIPO DE MANTENIMIENTO"].iloc[0].title()
+            vis_por = fil_est3["COMISIONADOS"].iloc[0].title()
+            comentarios = fil_est3["COMENTARIOS"].iloc[0].lower()
+        else:
+            fecha_man = "sin datos"
+
+
+        #RESPONSABLES
+        
+        #filtro por Estación
+        filtro_estacion = (tab_est["IDENTIFICADOR"] == estacion)
+        fil_est = tab_est[filtro_estacion]
+        
+        if len(fil_est) > 0:
+            
+            resp_elect =fil_est["ELECTRÓNICO RESPONSABLE"].iloc[0]
+            resp_tem = fil_est["TEMÁTICO RESPONSABLE"].iloc[0]
+        else:
+            resp_elect = "sin datos"
+            resp_tem = "sin datos"
+        
+        fe = fil_time["fecha"].iloc[0]
+        
+        st.write(estacion,"      |",canal,"       |",sensor,"       |",str(round(prom_dis,2)),"   |", str(gaps_prom),"    |", str(offset_prom)," |",str(pic_prom),"|", str(ppsd_prom),"|", str(fecha_man)
+                 ,"|",resp_tem,"|",resp_elect)
+
+
+
+
+
+#def tabla_estado():
+
